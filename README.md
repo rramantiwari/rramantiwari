@@ -23,7 +23,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 
 ### About me :eyes:
 
-- 🔭 I’m currently working on [COVID-19 Vaccine Management System](https://github.com/preethi4848/COVID-19-Vaccine-Management-System)
+- 🔭 I’m currently working on [ONLINE STUDENT ATTANDACE MANAGEMENT](https://github.com/rramantiwari/OSQR)
 
 - 👯  I’m looking to collaborate on Azure Dev fundamentals.
 
