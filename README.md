@@ -43,13 +43,31 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 
 - ⚡ Fun fact **A day without laughter is a day wasted!**
 - 📃 Some Certification across the platform
+
+
+![Revatiraman is a Full Stack developer specialising in PHP]
 <img src="https://github.com/rramantiwari/rramantiwari/blob/main/aab.png" border="0" height="50px" width="50px" alt="Logo Design by Revatiraman" title="Logo Design by Revatiraman">
-![Revatiraman is a Full Stack developer specialising in PHP](https://github.com/rramantiwari/rramantiwari/blob/main/aab.png)
-![Revatiraman is a Full Stack developer specialising in PHP](https://github.com/rramantiwari/rramantiwari/blob/main/download%20(6).png)
-![Revatiraman is a Full Stack developer specialising in PHP](https://github.com/rramantiwari/rramantiwari/blob/main/Screenshot%202021-09-21%20184453.jpg)
-![Revatiraman is a Full Stack developer specialising in PHP](https://github.com/rramantiwari/rramantiwari/blob/main/php.jpg)
-![Revatiraman is a Full Stack developer specialising in PHP](https://github.com/rramantiwari/rramantiwari/blob/main/Android.png)
- Hello I'm Revatiraman
+
+
+![Revatiraman is a Full Stack developer specialising in PHP]
+<img src="https://github.com/rramantiwari/rramantiwari/blob/main/download%20(6).png" border="0" height="50px" width="50px" alt="Logo Design by Revatiraman" title="Logo Design by Revatiraman">
+
+
+![Revatiraman is a Full Stack developer specialising in PHP]
+<img src="https://github.com/rramantiwari/rramantiwari/blob/main/Screenshot%202021-09-21%20184453.jpg" border="0" height="50px" width="50px" alt="Logo Design by Revatiraman" title="Logo Design by Revatiraman">
+
+
+![Revatiraman is a Full Stack developer specialising in PHP]
+<img src="https://github.com/rramantiwari/rramantiwari/blob/main/php.jpg" border="0" height="50px" width="50px" alt="Logo Design by Revatiraman" title="Logo Design by Revatiraman">
+
+
+![Revatiraman is a Full Stack developer specialising in PHP]
+<img src="https://github.com/rramantiwari/rramantiwari/blob/main/aab.png" border="0" height="50px" width="50px" alt="Logo Design by Revatiraman" title="Logo Design by Revatiraman">
+
+
+![Revatiraman is a Full Stack developer specialising in PHP]
+<img src="https://github.com/rramantiwari/rramantiwari/blob/main/Android.png" border="0" height="50px" width="50px" alt="Logo Design by Revatiraman" title="Logo Design by Revatiraman">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Revatiraman" height="30" width="40" /></a>
