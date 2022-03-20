@@ -51,7 +51,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 <a href="https://codepen.io/#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Revatiraman" height="30" width="40" /></a>
 <a href="https://dev.to/rramantiwari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Revatiraman" height="30" width="40" /></a>
 <a href="
-https://twitter.com/08Chora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="preethi" height="30" width="40" /></a>
+https://twitter.com/@08Chora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="preethi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/revatiraman-tiwari-891313202/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="preethi" height="30" width="40" /></a>
 <a href="https://www.instagram.com/brahman_.official/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="preethi" height="30" width="40" /></a>
 <a href="https://www.facebook.com/raman.tiwari.96742/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="preethi" height="30" width="40" /></a>
