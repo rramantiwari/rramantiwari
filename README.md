@@ -8,7 +8,7 @@
                         <span class="text-primary">G</span>
                     </h1>-->
                     
-<h3 align="center">A Young 🤓 Web Developer | Data Analyst | cloud Engineer from India </h3>
+<h3 align="center">A Young 🤓 Web Developer | Data Analyst | Cloud Engineer from India </h3>
 
 <!--<p align="left"> <a href="https://twitter.com/08Chora" target="blank"><img src=https://twitter.com/08Chora/followers" alt="Revatiraman" /></a> </p>-->
 
