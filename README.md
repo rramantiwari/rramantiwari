@@ -24,37 +24,35 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 
 - 🔭 I’m currently working on [COVID-19 Vaccine Management System](https://github.com/preethi4848/COVID-19-Vaccine-Management-System)
 
-- 👯  I’m looking to collaborate on 
+- 👯  I’m looking to collaborate on Azure Dev fundamentals.
 
 - 🌱 I’m currently learning [Android Development](https://developer.android.com/)
 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Languages: Python3, C, C++
-
-- 🤔 I’m looking for help with [COVID-19 Test Drone Project](https://github.com/#)
+- ⚡ Languages: Python3, C, C++, php, UI/UX Design
 
 - 💬 Ask me about **Web Development, DBMS, Python,PHP**
 
 - 📫 How to reach me: Links are given above 🔝
 
-- 👨‍💻 Check my Portfolio [Preethi G](https://preethi4848.github.io/My-Porfolio/)
+- 👨‍💻 Check my Portfolio [REVATIRAMAN](https://github.com/rramantiwari)
 
 - ⚡ Fun fact **A day without laughter is a day wasted!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="preethi" height="30" width="40" /></a>
-<a href="https://dev.to/preethi_g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="preethi" height="30" width="40" /></a>
+<a href="https://codepen.io/#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Revatiraman" height="30" width="40" /></a>
+<a href="https://dev.to/rramantiwari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Revatiraman" height="30" width="40" /></a>
 <a href="
-https://twitter.com/Preethi_G_4848?s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="preethi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/preethig-4848" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="preethi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/preethi__._/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="preethi" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Preethi.G.4848" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="preethi" height="30" width="40" /></a>
-<a href="https://medium.com/@preethi4848" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="preethi" height="30" width="40" /></a>
-<a href="https://t.me/PreethiG_4848" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="preethi" height="30" width="40" /></a>
+https://twitter.com/08Chora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="preethi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/revatiraman-tiwari-891313202/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="preethi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/brahman_.official/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="preethi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/raman.tiwari.96742/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="preethi" height="30" width="40" /></a>
+<a href="https://medium.com/@ramantiwari644" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Revatiraman" height="30" width="40" /></a>
+<a href="https://t.me/RRamantiwari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Revatiraman" height="30" width="40" /></a>
 </p>
  
  
