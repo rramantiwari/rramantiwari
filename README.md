@@ -23,7 +23,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 
 ### About me :eyes:
 
-- 🔭 I’m currently working on [ONLINE STUDENT ATTANDACE MANAGEMENT](https://github.com/rramantiwari/OSQR)
+- 🔭 I’m currently working on [ONLINE STUDENT ATTANDACE MANAGEMENT](https://github.com/rramantiwari/OSQR-Attendace_System_By_QR_Code.git)
 
 - 👯  I’m looking to collaborate on Azure Dev fundamentals.
 
