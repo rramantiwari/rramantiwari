@@ -19,13 +19,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-brahman_.official-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/brahman_.official/)](https://www.instagram.com/brahman_.official/) 
  [![website](https://img.shields.io/badge/Website-techeduworld-2648ff?style=flat-square&logo=google-chrome)](https://techeduworld.com/)
 
-Motivated software engineer 👨‍💻 looking to pursue a successful career in software development at Company Fivo Technology, where I can help in the Creating different Project. Experience includes coding, troubleshooting, and testing for my own personal projects. Relevant skills include PHP, MySQL, Laravel, CodeIgniter.♂️. 
+Motivated software engineer 👨‍💻 looking to pursue a successful career in software development at Company Fivo Technology, where I can help in the Creating different Project. Experience includes coding, troubleshooting, and testing for my own personal projects. Relevant skills include PHP, MySQL, Laravel, CodeIgniter. 
 
 ### About me :eyes:
 
 - 🔭 I’m currently working on [ONLINE STUDENT ATTANDACE MANAGEMENT](https://github.com/rramantiwari/OSQR-Attendace_System_By_QR_Code.git)
 
-- 👯  I’m looking to collaborate on Azure Dev fundamentals.
+- 👯  I’m looking to collaborate on Ci 4 Projects.
 
 - 🌱 I’m currently learning [Android Development](https://developer.android.com/)
 
@@ -33,13 +33,13 @@ Motivated software engineer 👨‍💻 looking to pursue a successful career in
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Languages: Python3, C, C++, php, UI/UX Design
+- ⚡ Languages: PHP, CI 4, LARAVEL ,Python3, C, C++, php, UI/UX Design
 
 - 💬 Ask me about **Web Development, DBMS, Python,PHP**
 
 - 📫 How to reach me: Links are given above 🔝
 
-- 👨‍💻 Check my Portfolio [REVATIRAMAN](https://github.com/rramantiwari)
+- 👨‍💻 Check my Portfolio [REVATIRAMAN](https://thetechsolution.xyz)
 
 - ⚡ Fun fact **A day without laughter is a day wasted!**
 - 📃 Some Certification across the platform
