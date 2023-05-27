@@ -17,7 +17,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Ramantiwari-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ramantiwari644@gmail.com)](mailto:ramantiwari644@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Revatiraman-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/raman.tiwari.96742)](https://www.facebook.com/raman.tiwari.96742) 
 [![Instagram Badge](https://img.shields.io/badge/-brahman_.official-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/brahman_.official/)](https://www.instagram.com/brahman_.official/) 
- [![website](https://img.shields.io/badge/Website-codingwithrr-2648ff?style=flat-square&logo=google-chrome)](https://codingwithrr.wordpress.com/)
+ [![website](https://img.shields.io/badge/Website-techeduworld-2648ff?style=flat-square&logo=google-chrome)](https://techeduworld.com/)
 
 I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️. 
 
