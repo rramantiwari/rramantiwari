@@ -19,7 +19,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-brahman_.official-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/brahman_.official/)](https://www.instagram.com/brahman_.official/) 
  [![website](https://img.shields.io/badge/Website-techeduworld-2648ff?style=flat-square&logo=google-chrome)](https://techeduworld.com/)
 
-I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️. 
+Motivated software engineer 👨‍💻 looking to pursue a successful career in software development at Company Fivo Technology, where I can help in the Creating different Project. Experience includes coding, troubleshooting, and testing for my own personal projects. Relevant skills include PHP, MySQL, Laravel, CodeIgniter.♂️. 
 
 ### About me :eyes:
 
