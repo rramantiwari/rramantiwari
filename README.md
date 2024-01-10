@@ -50,6 +50,9 @@ Motivated software engineer 👨‍💻 looking to pursue a successful career in
 <div>
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=rramantiwari&show_icons=true&theme=gruvbox">
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramantiwari&layout=compact&lang&theme=gruvbox">
+ <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="raman-tiwari" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/raman-tiwari?trk=profile-badge">REVATIRAMAN TIWARI</a></div>
+              
 </div>
 
 
