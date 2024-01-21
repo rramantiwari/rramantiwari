@@ -84,3 +84,32 @@
 - *+91 7028978987*
 - *[ramantiwari644@gmail.com](mailto:ramantiwari644@gmail.com)*
 - *[LinkedIn](www.linkedin.com/in/raman-tiwari)*
+- - 📃 Some Certification across the platform
+
+<img src="https://github.com/rramantiwari/rramantiwari/blob/main/7.jpg" border="0" height="50px" width="50px" border="5px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/17.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/18.png" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/php.jpg" border="0" height="50px" width="50px"  padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/aab.png" border="0" height="50px" width="50px"  padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/Android.png" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/8.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/9.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/10.png" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/11.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/12.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/13.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/14.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/15.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/16.png" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image">
+
+
+<div>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=rramantiwari&show_icons=true&theme=gruvbox">
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramantiwari&layout=compact&lang&theme=gruvbox"> 
+              
+</div>
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Revatiraman" height="30" width="40" /></a>
+<a href="https://dev.to/rramantiwari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Revatiraman" height="30" width="40" /></a>
+<a href="
+https://twitter.com/08Chora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Revatiraman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/revatiraman-tiwari-891313202/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="preethi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/brahman_.official/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="preethi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/raman.tiwari.96742/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="preethi" height="30" width="40" /></a>
+<a href="https://medium.com/@ramantiwari644" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Revatiraman" height="30" width="40" /></a>
+<a href="https://t.me/RRamantiwari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Revatiraman" height="30" width="40" /></a>
+</p>
+ 
+ 
+ 
+ 
