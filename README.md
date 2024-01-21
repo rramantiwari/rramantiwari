@@ -139,7 +139,21 @@
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramantiwari&layout=compact&lang&theme=gruvbox"> 
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rramantiwari" alt="rramantiwari" /></a> </p>
- 
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rramantiwari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rramantiwari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rramantiwari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rramantiwari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rramantiwari&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 <!-- Animated "Connect with me" section -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
