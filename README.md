@@ -1,74 +1,86 @@
- <!--<img src="  ">-->
-
 <h1 align="center">Hi 👋, I'm Revatiraman</h1>
 
-<!--![Hello](Hello.gif) 
-<h1 class="mb-0" ><a target="_top" href="#" ><img src="  " border="0" alt="Logo Design by Revatiraman" title="Logo Design by Revatiraman"></a>
-                       <!-- Revatiraman
-                        <span class="text-primary">G</span>
-                    </h1>-->
-                    
-<h3 align="center">A Young 🤓 Web Developer | Data Analyst | Cloud Engineer from India </h3>
+<h3 align="center">Motivated software engineer looking to pursue a successful career in software development at Company StercoDigitex Pvt. Ltd.</h3>
 
-<!--<p align="left"> <a href="https://twitter.com/08Chora" target="blank"><img src=https://twitter.com/08Chora/followers" alt="Revatiraman" /></a> </p>-->
+### Professional Experience
 
-[![Twitter Badge](https://img.shields.io/badge/-08Chora-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/08Chora)](https://twitter.com/08Chora) 
-[![Linkedin Badge](https://img.shields.io/badge/revatiraman_tiwari-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/revatiraman-tiwari-891313202/)](https://www.linkedin.com/in/revatiraman-tiwari-891313202/)
-[![Gmail Badge](https://img.shields.io/badge/-Ramantiwari-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ramantiwari644@gmail.com)](mailto:ramantiwari644@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Revatiraman-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/raman.tiwari.96742)](https://www.facebook.com/raman.tiwari.96742) 
-[![Instagram Badge](https://img.shields.io/badge/-brahman_.official-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/brahman_.official/)](https://www.instagram.com/brahman_.official/) 
- [![website](https://img.shields.io/badge/Website-techeduworld-2648ff?style=flat-square&logo=google-chrome)](https://techeduworld.com/)
+- **CodeIgniter & Laravel Developer**  
+  *StercoDigitex Pvt. Ltd.*  
+  *08/2023 - Present*  
+  Building Complex CMS for Large Scale Websites.
 
-Motivated software engineer 👨‍💻 looking to pursue a successful career in software development at Company Fivo Technology, where I can help in the Creating different Project. Experience includes coding, troubleshooting, and testing for my own personal projects. Relevant skills include PHP, MySQL, Laravel, CodeIgniter. 
+- **PHP, CodeIgniter, Laravel Developer**  
+  *Fivo Technology*  
+  *02/2023 - 08/2023*  
+  Building Complex Products by understanding client needs.
 
-### About me :eyes:
+- **PHP Developer**  
+  *Accevate Technologies*  
+  *02/2022 - 02/2023*  
+  Building Complex Reports using OOPs Concept.
 
-- 🔭 I’m currently working on [ONLINE STUDENT ATTANDACE MANAGEMENT](https://github.com/rramantiwari/OSQR-Attendace_System_By_QR_Code.git)
+- **Laravel PHP (Intern)**  
+  *Softpro India Computer Technology Pvt. Ltd*  
+  *08/2021 - 01/2022*  
+  Laravel Framework Summer training with A+ Performance.
 
-- 👯  I’m looking to collaborate on Ci 4 Projects.
+- **JavaScript Developer (Intern)**  
+  *Suven Consultants & Technology Pvt. Ltd*  
+  *06/2021 - 08/2021*  
+  JavaScript Coding Internship with Commendable Performance.
 
-- 🌱 I’m currently learning [Android Development](https://developer.android.com/)
+### Education
 
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- **Bachelor of Technology in Computer Science and Engineering**  
+  *Expected in 01/2025*  
+  Shanti Institute of Technology - Meerut
 
-- 😄 Pronouns: He/Him
+- **Diploma in Computer Science and Engineering**  
+  *01/2022*  
+  Government Polytechnic - Unnao
 
-- ⚡ Languages: PHP, CI 4, LARAVEL ,Python3, C, C++, php, UI/UX Design
+- **Senior Secondary Class (XII)**  
+  *01/2018*  
+  Smt. Manju Mahendra Agrawal Sci. Jr. College - Mumbai
 
-- 💬 Ask me about **Web Development, DBMS, Python,PHP**
+### Projects
 
-- 📫 How to reach me: Links are given above 🔝
+1. **Manav Rachna Vidyanatariksha - Manav Rachna Educational Institutions**  
+   *Mar 2023 to Apr 2023 (Full Time)*  
+   [Manav Rachna Educational Institutions](https://manavrachna.edu.in/)
 
-- 👨‍💻 Check my Portfolio [REVATIRAMAN](https://thetechsolution.xyz)
+2. **CouponRovers - Get Great Deals & Discount Coupons**  
+   *Mar 2023 to May 2023 (contractual)*  
+   [Coupon Rovers](https://www.couponrovers.com/)
 
-- ⚡ Fun fact **A day without laughter is a day wasted!**
-- 📃 Some Certification across the platform
+3. **Best Airport Taxi Transfer Company - Taxi App London | iCabit | London Coaches**  
+   *Feb 2023 to May 2023 (contractual)*  
+   [iCabit](https://www.icabit.com/)
 
-<img src="https://github.com/rramantiwari/rramantiwari/blob/main/7.jpg" border="0" height="50px" width="50px" border="5px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/17.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/18.png" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/php.jpg" border="0" height="50px" width="50px"  padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/aab.png" border="0" height="50px" width="50px"  padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/Android.png" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/8.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/9.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/10.png" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/11.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/12.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/13.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/14.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/15.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/16.png" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image">
+### Skills
 
+- PHP
+- MySQL
+- Rest API
+- Laravel
+- CodeIgniter
+- Slim PHP
+- JavaScript
+- jQuery
+- Git
 
-<div>
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=rramantiwari&show_icons=true&theme=gruvbox">
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramantiwari&layout=compact&lang&theme=gruvbox"> 
-              
-</div>
+### Certifications
 
+- [Python Basics by Hackerank](#)
+- [Java Basics by Hackerank](#)
+- [PHP Developer by Acceveate Technology](#)
+- [Distributed SQL Cockroach Labs](#)
+- [Laravel Developer by Softpro](#)
+- [Data Science by IBM](#)
 
+### Contact Information
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Revatiraman" height="30" width="40" /></a>
-<a href="https://dev.to/rramantiwari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Revatiraman" height="30" width="40" /></a>
-<a href="
-https://twitter.com/08Chora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Revatiraman" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/revatiraman-tiwari-891313202/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="preethi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/brahman_.official/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="preethi" height="30" width="40" /></a>
-<a href="https://www.facebook.com/raman.tiwari.96742/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="preethi" height="30" width="40" /></a>
-<a href="https://medium.com/@ramantiwari644" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Revatiraman" height="30" width="40" /></a>
-<a href="https://t.me/RRamantiwari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Revatiraman" height="30" width="40" /></a>
-</p>
- 
- 
- 
- 
- 
+- *New Delhi, INDIA 110092*
+- *+91 7028978987*
+- *[ramantiwari644@gmail.com](mailto:ramantiwari644@gmail.com)*
+- *[LinkedIn](www.linkedin.com/in/raman-tiwari)*
