@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Revatiraman</h1>
+[![Twitter Badge](https://img.shields.io/badge/-08Chora-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/08Chora)](https://twitter.com/08Chora) 
+[![Linkedin Badge](https://img.shields.io/badge/revatiraman_tiwari-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/revatiraman-tiwari-891313202/)](https://www.linkedin.com/in/revatiraman-tiwari-891313202/)
+[![Gmail Badge](https://img.shields.io/badge/-Ramantiwari-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ramantiwari644@gmail.com)](mailto:ramantiwari644@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Revatiraman-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/raman.tiwari.96742)](https://www.facebook.com/raman.tiwari.96742) 
+[![Instagram Badge](https://img.shields.io/badge/-brahman_.official-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/brahman_.official/)](https://www.instagram.com/brahman_.official/) 
+ [![website](https://img.shields.io/badge/Website-techeduworld-2648ff?style=flat-square&logo=google-chrome)](https://techeduworld.com/)
 
 <h3 align="center">Motivated software engineer looking to pursue a successful career in software development at Company StercoDigitex Pvt. Ltd.</h3>
 
