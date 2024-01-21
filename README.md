@@ -3,11 +3,11 @@
 <h3 align="center">Motivated software engineer looking to pursue a successful career in software development at Company StercoDigitex Pvt. Ltd.</h3>
 
 <p align="center">
-  <a href="https://twitter.com/08Chora" target="_blank">
-    <img src="https://img.shields.io/badge/-08Chora-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/08Chora" alt="Twitter Badge">
+  <a href="https://twitter.com/_Techeduworld" target="_blank">
+    <img src="https://img.shields.io/badge/-08Chora-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/_Techeduworld" alt="Twitter Badge">
   </a>
-  <a href="https://www.linkedin.com/in/revatiraman-tiwari-891313202/" target="_blank">
-    <img src="https://img.shields.io/badge/revatiraman_tiwari-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/revatiraman-tiwari-891313202/" alt="LinkedIn Badge">
+  <a href="https://www.linkedin.com/in/raman-tiwari/" target="_blank">
+    <img src="https://img.shields.io/badge/revatiraman_tiwari-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/raman-tiwari/" alt="LinkedIn Badge">
   </a>
   <a href="mailto:ramantiwari644@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Ramantiwari-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ramantiwari644@gmail.com" alt="Gmail Badge">
@@ -15,7 +15,7 @@
   <a href="https://www.facebook.com/raman.tiwari.96742" target="_blank">
     <img src="https://img.shields.io/badge/-Revatiraman-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/raman.tiwari.96742" alt="Facebook Badge">
   </a>
-  <a href="https://www.instagram.com/brahman_.official/" target="_blank">
+  <a href="https://www.instagram.com/revatiraman.tiwari/" target="_blank">
     <img src="https://img.shields.io/badge/-brahman_.official-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/brahman_.official/" alt="Instagram Badge">
   </a>
   <a href="https://techeduworld.com/" target="_blank">
@@ -130,7 +130,7 @@
   - *New Delhi, INDIA 110092*
   - *+91 7028978987*
   - *[ramantiwari644@gmail.com](mailto:ramantiwari644@gmail.com)*
-  - *[LinkedIn](www.linkedin.com/in/raman-tiwari)*
+  - *[LinkedIn](https://www.linkedin.com/in/raman-tiwari)*
 </details>
 
 <!-- Animated "GitHub Stats" and "Trophy" section -->
@@ -160,9 +160,9 @@
   <a href="https://codepen.io/#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Revatiraman" height="50"" width="50" /></a>
   <a href="https://dev.to/rramantiwari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Revatiraman" height="50"" width="50" /></a>
   <a href="https://twitter.com/08Chora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Revatiraman" height="50"" width="50" /></a>
-  <a href="https://www.linkedin.com/in/revatiraman-tiwari-891313202/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="preethi" height="50"" width="50" /></a>
-  <a href="https://www.instagram.com/brahman_.official/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="preethi" height="50"" width="50" /></a>
-  <a href="https://www.facebook.com/raman.tiwari.96742/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="preethi" height="50"" width="50" /></a>
+  <a href="https://www.linkedin.com/in/revatiraman-tiwari-891313202/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Revatiraman" height="50"" width="50" /></a>
+  <a href="https://www.instagram.com/brahman_.official/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Revatiraman" height="50"" width="50" /></a>
+  <a href="https://www.facebook.com/raman.tiwari.96742/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Revatiraman" height="50"" width="50" /></a>
   <a href="https://medium.com/@ramantiwari644" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Revatiraman" height="50"" width="50" /></a>
   <a href="https://t.me/RRamantiwari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Revatiraman" height="50"" width="50" /></a>
 </p>
