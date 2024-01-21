@@ -141,15 +141,15 @@
 <br>
 <div>
   <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=rramantiwari&theme=gruvbox"> 
-  <img height="155" src="https://github-contributor-stats.vercel.app/api?username=rramantiwari&limit=5&theme=dark&combine_all_yearly_contributions=true">
+  <img height="155" src="https://github-contributor-stats.vercel.app/api?username=rramantiwari&limit=5&theme=gruvbox&combine_all_yearly_contributions=true">
 </div>
 
 
  <div>
-  <img height="200" src="https://github-profile-trophy.vercel.app/?username=rramantiwari&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+  <img height="200" src="https://github-profile-trophy.vercel.app/?username=rramantiwari&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4">
    </div>
 <div>
-   <img height="155" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"> 
+   <img height="155" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"> 
 </div>
 
  
