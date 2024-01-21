@@ -136,12 +136,12 @@
 <!-- Animated "GitHub Stats" and "Trophy" section -->
 <div>
   <img height="155" src="https://github-readme-stats.vercel.app/api?username=rramantiwari&show_icons=true&theme=gruvbox">
-   <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=rramantiwari&theme=dark&hide_border=false"> 
-  
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramantiwari&layout=compact&lang&theme=gruvbox"> 
 </div>
+<br>
 <div>
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramantiwari&layout=compact&lang&theme=gruvbox"> 
-    <img height="155" src="https://github-contributor-stats.vercel.app/api?username=rramantiwari&limit=5&theme=dark&combine_all_yearly_contributions=true">
+  <img height="155" src="https://github-contributor-stats.vercel.app/api?username=rramantiwari&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </div>
 
 
