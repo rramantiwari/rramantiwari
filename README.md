@@ -92,12 +92,7 @@
 
 ### Certifications
 
-- [![Python Basics by Hackerank](https://github.com/rramantiwari/rramantiwari/blob/main/7.jpg)](#) 
-- [![Java Basics by Hackerank](https://github.com/rramantiwari/rramantiwari/blob/main/17.jpg)](#)
-- [![PHP Developer by Acceveate Technology](https://github.com/rramantiwari/rramantiwari/blob/main/18.png)](#)
-- [![Distributed SQL Cockroach Labs](https://github.com/rramantiwari/rramantiwari/blob/main/php.jpg)](#)
-- [![Laravel Developer by Softpro](https://github.com/rramantiwari/rramantiwari/blob/main/aab.png)](#)
-- [![Data Science by IBM](https://github.com/rramantiwari/rramantiwari/blob/main/Android.png)](#)
+<img src="https://github.com/rramantiwari/rramantiwari/blob/main/7.jpg" border="0" height="50px" width="50px" border="5px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/17.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/18.png" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/php.jpg" border="0" height="50px" width="50px"  padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/aab.png" border="0" height="50px" width="50px"  padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/Android.png" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/8.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/9.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/10.png" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/11.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/12.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/13.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/14.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/15.jpg" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image"><img src="https://github.com/rramantiwari/rramantiwari/blob/main/16.png" border="0" height="50px" width="50px" padding="5px" alt="Cartificate Image" title="Cartificate Image">
 
 ### Contact Information
 
@@ -106,17 +101,7 @@
 - *[ramantiwari644@gmail.com](mailto:ramantiwari644@gmail.com)*
 - *[LinkedIn](www.linkedin.com/in/raman-tiwari)*
 
-### Some Certification across the platform
 
-<img src="https://github.com/rramantiwari/rramantiwari/blob/main/8.jpg" height="50px" width="50px" alt="Certificate Image" title="Certificate Image">
-<img src="https://github.com/rramantiwari/rramantiwari/blob/main/9.jpg" height="50px" width="50px" alt="Certificate Image" title="Certificate Image">
-<img src="https://github.com/rramantiwari/rramantiwari/blob/main/10.png" height="50px" width="50px" alt="Certificate Image" title="Certificate Image">
-<img src="https://github.com/rramantiwari/rramantiwari/blob/main/11.jpg" height="50px" width="50px" alt="Certificate Image" title="Certificate Image">
-<img src="https://github.com/rramantiwari/rramantiwari/blob/main/12.jpg" height="50px" width="50px" alt="Certificate Image" title="Certificate Image">
-<img src="https://github.com/rramantiwari/rramantiwari/blob/main/13.jpg" height="50px" width="50px" alt="Certificate Image" title="Certificate Image">
-<img src="https://github.com/rramantiwari/rramantiwari/blob/main/14.jpg" height="50px" width="50px" alt="Certificate Image" title="Certificate Image">
-<img src="https://github.com/rramantiwari/rramantiwari/blob/main/15.jpg" height="50px" width="50px" alt="Certificate Image" title="Certificate Image">
-<img src="https://github.com/rramantiwari/rramantiwari/blob/main/16.png" height="50px" width="50px" alt="Certificate Image" title="Certificate Image">
 
 <div>
   <img height="155" src="https://github-readme-stats.vercel.app/api?username=rramantiwari&show_icons=true&theme=gruvbox">
