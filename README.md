@@ -135,27 +135,19 @@
 
 <!-- Animated "GitHub Stats" and "Trophy" section -->
 <div>
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=rramantiwari&show_icons=true&theme=gruvbox">
-   <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=rramantiwari&theme=dark&hide_border=false"> 
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramantiwari&layout=compact&lang&theme=gruvbox"> 
+  <img height="100" src="https://github-readme-stats.vercel.app/api?username=rramantiwari&show_icons=true&theme=gruvbox">
+   <img height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=rramantiwari&theme=dark&hide_border=false"> 
+  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramantiwari&layout=compact&lang&theme=gruvbox"> 
 </div>
 
 
+ <div>
+  <img height="100" src="https://github-profile-trophy.vercel.app/?username=rramantiwari&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+   <img height="100" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"> 
+  <img height="100" src="https://github-contributor-stats.vercel.app/api?username=rramantiwari&limit=5&theme=dark&combine_all_yearly_contributions=true"> 
+</div>
+
  
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rramantiwari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rramantiwari&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-<br/>  
-
 
 <!-- Animated "Connect with me" section -->
 <h3 align="left">Connect with me:</h3>
