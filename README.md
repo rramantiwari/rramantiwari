@@ -166,3 +166,6 @@
   <a href="https://medium.com/@ramantiwari644" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Revatiraman" height="50"" width="50" /></a>
   <a href="https://t.me/RRamantiwari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Revatiraman" height="50"" width="50" /></a>
 </p>
+<p align="center">
+<a href="https://gist.github.com/rramantiwari"><img src="https://profile-counter.glitch.me/{rramantiwari}/count.svg" alt="rramantiwari :: Visitor's Count" /></a>
+</p>
