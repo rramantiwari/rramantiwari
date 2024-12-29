@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm  Raman Tiwari</h1>
 
-<h3 align="center">Motivated software engineer looking to pursue a successful career in software development at Company StercoDigitex Pvt. Ltd.</h3>
+<h3 align="center">Motivated software engineer looking to pursue a successful career in software development at Company Salary Now Pvt. Ltd.</h3>
 
 <p align="center">
   <a href="https://twitter.com/_Techeduworld" target="_blank">
