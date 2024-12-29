@@ -26,20 +26,20 @@
 <!-- Animated "Professional Experience" section -->
 <details open>
   <summary><b>Professional Experience</b></summary>
+  
+  - **Senior Laravel Developer**  
+    *Salary now FinTech*  
+    *11/2024 - Present*  
+    Complex Loan Management Sysytem.
 
   - **CodeIgniter & Laravel Developer**  
     *StercoDigitex Pvt. Ltd.*  
-    *08/2023 - Present*  
+    *08/2023 - 11/2024*  
     Building Complex CMS for Large Scale Websites.
-
-  - **PHP, CodeIgniter, Laravel Developer**  
-    *Fivo Technology*  
-    *02/2023 - 08/2023*  
-    Building Complex Products by understanding client needs.
 
   - **PHP Developer**  
     *Accevate Technologies*  
-    *02/2022 - 02/2023*  
+    *02/2022 - 08/2023*  
     Building Complex Reports using OOPs Concept.
 
   - **Laravel PHP (Intern)**  
