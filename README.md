@@ -64,8 +64,8 @@
 <details open>
 <summary><b>🎓 Academic Background</b></summary>
 
-| 🎓 **Degree** | 🏫 **Institution** | 📅 **Year** |
-|:---|:---|:---:|
+| 🎓 **Degree** | 🏫 **Institution**
+|:---|:---|
 | **B.Tech in Computer Science & Engineering** | Shanti Institute of Technology - Meerut
 | **Diploma in Computer Science & Engineering** | Government Polytechnic - Kanpur
 | **Senior Secondary (XII)** | Smt. Manju Mahendra Agrawal Sci. Jr. College - Mumbai
