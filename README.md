@@ -191,6 +191,9 @@
 <a href="https://www.linkedin.com/in/revatiraman-tiwari-891313202/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="https://g.dev/raman-tiwari" target="_blank">
+  <img src="https://img.shields.io/badge/Google-Profile-blue?style=for-the-badge&logo=Google&logoColor=white" alt="Google"/>
+</a>
 
 <a href="https://www.instagram.com/brahman_.official/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
