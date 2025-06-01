@@ -66,9 +66,9 @@
 
 | 🎓 **Degree** | 🏫 **Institution** | 📅 **Year** |
 |:---|:---|:---:|
-| **B.Tech in Computer Science & Engineering** | Shanti Institute of Technology - Meerut | *Expected 01/2025* |
-| **Diploma in Computer Science & Engineering** | Government Polytechnic - Unnao | *01/2022* |
-| **Senior Secondary (XII)** | Smt. Manju Mahendra Agrawal Sci. Jr. College - Mumbai | *01/2018* |
+| **B.Tech in Computer Science & Engineering** | Shanti Institute of Technology - Meerut
+| **Diploma in Computer Science & Engineering** | Government Polytechnic - Kanpur
+| **Senior Secondary (XII)** | Smt. Manju Mahendra Agrawal Sci. Jr. College - Mumbai
 
 </details>
 
