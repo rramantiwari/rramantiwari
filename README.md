@@ -1,15 +1,15 @@
-# <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Revatiraman+Tiwari;Senior+Laravel+Developer;Full+Stack+PHP+Expert;The+Problem+Solver+%26+Code+Architect" alt="Revatiraman Tiwari - Senior Laravel Developer" />
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <div align="center">
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Expert+Software+Engineer;Building+Complex+Systems;Creating+Digital+Solutions;Pursuing+Excellence+in+Code" alt="Software Engineer Expertise" />
-  </h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Revatiraman+Tiwari;Senior+Laravel+Developer;Full+Stack+PHP+Expert;Problem+Solver+%26+Code+Architect" alt="Revatiraman Tiwari - Senior Laravel Developer" />
+</div>
+
+<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Expert+Software+Engineer;Building+Complex+Systems;Creating+Digital+Solutions;Pursuing+Excellence+in+Code" alt="Software Engineer Expertise" />
+  </h2>
 </div>
 
 ---
@@ -102,22 +102,52 @@
 <div align="center">
 
 ### **🔥 Core Technologies**
-![PHP](https://img.shields.io/badge/PHP-Expert-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-Expert-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-Advanced-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
+<a href="https://www.php.net" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/PHP-Expert-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Programming Language"/>
+</a>
+<a href="https://laravel.com" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Laravel-Expert-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Framework"/>
+</a>
+<a href="https://codeigniter.com" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/CodeIgniter-Advanced-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter Framework"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</a>
+</div>
 
 ### **🗄️ Database & Infrastructure**
-![MySQL](https://img.shields.io/badge/MySQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Proficient-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Intermediate-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+<a href="https://www.mysql.com" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/MySQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Database"/>
+</a>
+<a href="https://aws.amazon.com" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/AWS-Proficient-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Web Services"/>
+</a>
+<a href="https://redis.io" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Redis-Intermediate-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Caching"/>
+</a>
+<a href="https://git-scm.com" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Version Control"/>
+</a>
+</div>
 
 ### **🎨 Frontend & Integration**
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-Proficient-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-Expert-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-Advanced-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<div align="center">
+<a href="https://getbootstrap.com" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Bootstrap-Advanced-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap CSS"/>
+</a>
+<a href="https://jquery.com" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/jQuery-Proficient-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery Library"/>
+</a>
+<a href="https://restfulapi.net" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/REST_API-Expert-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API Development"/>
+</a>
+<a href="https://www.postman.com" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Postman-Advanced-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman API Testing"/>
+</a>
+</div>
 
 </div>
 
@@ -155,20 +185,43 @@ Data Structures & Algorithms • Database Management Systems • Object Oriented
 
 <div align="center">
 
-### **🎖️ Recent Certifications**
+### **🎖️ Latest Certifications (2025)**
 
-**Laravel Framework Apprenticeship** - Softpro India Computer Tech (2021-2022)  
-*Advanced Laravel development with A+ performance rating*
+<div style="overflow-x: auto; white-space: nowrap; padding: 20px 0;">
+  <img src="https://github.com/rramantiwari/rramantiwari/blob/main/testdome-laraval.png" height="120px" width="120px" style="border-radius: 15px; margin: 15px; border: 3px solid #FF2D20; display: inline-block;" alt="TestDome Laravel Certification 2025"/>
+</div>
 
-**JavaScript Development Internship** - Suven Consultants & Technology (2021)  
-*JavaScript coding internship with commendable performance*
+**🆕 Laravel Framework Certification - TestDome (July 2025)**  
+*Advanced Laravel development skills validation with expert-level performance*
 
-### **🌟 Technical Certifications**
-- **Python Basics** - HackerRank Certified
-- **Java Fundamentals** - HackerRank Certified  
-- **PHP Developer** - Accevate Technology Certified
-- **Data Science** - IBM Professional Certificate
-- **Distributed SQL** - Cockroach Labs Certified
+---
+
+### **🌟 Professional Skill Certifications**
+
+<div style="overflow-x: auto; white-space: nowrap; padding: 20px 0; text-align: center;">
+  <img src="https://github.com/rramantiwari/rramantiwari/blob/main/7.jpg" height="100px" width="100px" style="border-radius: 12px; margin: 8px; border: 2px solid #00D9FF; display: inline-block;" alt="Data Science Certification"/>
+  <img src="https://github.com/rramantiwari/rramantiwari/blob/main/17.jpg" height="100px" width="100px" style="border-radius: 12px; margin: 8px; border: 2px solid #00D9FF; display: inline-block;" alt="Python Data Science"/>
+  <img src="https://github.com/rramantiwari/rramantiwari/blob/main/18.png" height="100px" width="100px" style="border-radius: 12px; margin: 8px; border: 2px solid #00D9FF; display: inline-block;" alt="Data Visualization"/>
+  <img src="https://github.com/rramantiwari/rramantiwari/blob/main/php.jpg" height="100px" width="100px" style="border-radius: 12px; margin: 8px; border: 2px solid #00D9FF; display: inline-block;" alt="PHP Certification"/>
+  <img src="https://github.com/rramantiwari/rramantiwari/blob/main/aab.png" height="100px" width="100px" style="border-radius: 12px; margin: 8px; border: 2px solid #00D9FF; display: inline-block;" alt="Applied Data Science"/>
+  <img src="https://github.com/rramantiwari/rramantiwari/blob/main/Android.png" height="100px" width="100px" style="border-radius: 12px; margin: 8px; border: 2px solid #00D9FF; display: inline-block;" alt="Android Development"/>
+  <img src="https://github.com/rramantiwari/rramantiwari/blob/main/8.jpg" height="100px" width="100px" style="border-radius: 12px; margin: 8px; border: 2px solid #00D9FF; display: inline-block;" alt="Cloud Computing"/>
+  <img src="https://github.com/rramantiwari/rramantiwari/blob/main/9.jpg" height="100px" width="100px" style="border-radius: 12px; margin: 8px; border: 2px solid #00D9FF; display: inline-block;" alt="Data Analysis"/>
+  <img src="https://github.com/rramantiwari/rramantiwari/blob/main/10.png" height="100px" width="100px" style="border-radius: 12px; margin: 8px; border: 2px solid #00D9FF; display: inline-block;" alt="Python Programming"/>
+  <img src="https://github.com/rramantiwari/rramantiwari/blob/main/11.jpg" height="100px" width="100px" style="border-radius: 12px; margin: 8px; border: 2px solid #00D9FF; display: inline-block;" alt="Machine Learning"/>
+</div>
+
+### **📜 Key Certifications Breakdown**
+
+| 🏅 **Certification** | 🏢 **Provider** | 📅 **Year** | 🎯 **Focus Area** |
+|:---|:---|:---|:---|
+| **Laravel Framework** | TestDome | 2025 | Advanced Laravel Development |
+| **Applied Data Science with Python** | IBM | 2022 | Data Science & Analytics |
+| **Data Visualization Using Python** | IBM | 2022 | Business Intelligence |
+| **Data Analysis Using Python** | IBM | 2022 | Statistical Analysis |
+| **Python for Data Science** | IBM | 2022 | Programming & Data Science |
+| **Laravel Framework Apprenticeship** | Softpro India | 2021-2022 | Professional Training |
+| **JavaScript Development** | Suven Consultants | 2021 | Frontend Development |
 
 </div>
 
