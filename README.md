@@ -18,7 +18,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/-Revatiraman%20Tiwari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/revatiraman-tiwari-891313202/)
   [![Gmail](https://img.shields.io/badge/-ramantiwari644@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:ramantiwari644@gmail.com)
-  [![Upwork](https://img.shields.io/badge/-Rising%20Talent-6FDA44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=6FDA44)](https://www.upwork.com/freelancers/revatiraman)
+  [![Upwork](https://img.shields.io/badge/-Rising%20Talent-6FDA44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=6FDA44)](https://www.upwork.com/freelancers/~01016223d2483dcb11?mp_source=share)
   
   [![Twitter](https://img.shields.io/badge/-@08Chora-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/08Chora)
   [![Dev.to](https://img.shields.io/badge/-rramantiwari-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A)](https://dev.to/rramantiwari)
