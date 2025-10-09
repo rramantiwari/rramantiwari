@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Senior Laravel & AI Expert | Backend Architect | Cloud Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rramantiwari&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=rramantiwari&style=flat-square&color=blueviolet" alt="Profile Views"/> -->
   <img src="https://img.shields.io/github/followers/rramantiwari?label=Followers&style=flat-square&color=blueviolet"/>
   <img src="https://img.shields.io/github/stars/rramantiwari?affiliations=OWNER&style=flat-square&color=blueviolet"/>
 </p>
