@@ -109,8 +109,18 @@ I specialize in **AI-assisted development**, **REST API architecture**, and **AW
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rramantiwari&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- github-profile-trophy is currently disabled, so this uses stable summary cards instead -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rramantiwari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rramantiwari&theme=tokyonight" alt="Raman Tiwari GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rramantiwari&theme=tokyonight" alt="Top repositories by language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rramantiwari&theme=tokyonight&utcOffset=5.5" alt="Productive coding time" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rramantiwari&theme=tokyo-night&hide_border=true&area=true" alt="Raman Tiwari GitHub activity graph" />
 </p>
 
 <!-- ===================== ANIMATED SNAKE ===================== -->
@@ -118,7 +128,7 @@ I specialize in **AI-assisted development**, **REST API architecture**, and **AW
   <img src="https://raw.githubusercontent.com/rramantiwari/rramantiwari/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> 💡 **To enable the snake animation** above: create `.github/workflows/snake.yml` in this repo with the [Platane/snk action](https://github.com/Platane/snk) — it auto-generates the SVG into an `output` branch.
+> 💡 **Snake note:** after adding `.github/workflows/snake.yml`, run the workflow once from the **Actions** tab. The SVG appears only after GitHub creates the `output` branch.
 
 ---
 
