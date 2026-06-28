@@ -128,8 +128,7 @@ I specialize in **AI-assisted development**, **REST API architecture**, and **AW
   <img src="https://raw.githubusercontent.com/rramantiwari/rramantiwari/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> 💡 **Snake note:** after adding `.github/workflows/snake.yml`, run the workflow once from the **Actions** tab. The SVG appears only after GitHub creates the `output` branch.
-
+ 
 ---
 
 ## 📫 Let's Connect
