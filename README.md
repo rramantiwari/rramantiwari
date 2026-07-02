@@ -30,7 +30,7 @@
 I'm **Revatiraman Tiwari**, a **Senior Software Engineer with 6+ years of experience** crafting scalable web applications in **PHP, Laravel, MySQL, and React**.
 I specialize in **AI-assisted development**, **REST API architecture**, and **AWS deployments (RDS, EC2, Jenkins, CI/CD)**.
 
-- 🔭 Currently **Senior Full Stack Laravel Developer @ Misha Infotech**
+- 🔭 Currently **Senior Full Stack Laravel Developer @ Misha Infotech**, leading a team of **4–5 developers**
 - 🏗️ I ship **CMS platforms, loan management systems, e-commerce & enterprise dashboards**
 - 🤖 I plug **AI / LLM workflows** into traditional PHP stacks for faster delivery
 - 🎓 **B.Tech in Computer Science**, Shanti Institute of Technology, Meerut
@@ -72,7 +72,13 @@ I specialize in **AI-assisted development**, **REST API architecture**, and **AW
 | PHP Developer | **Accevate Technologies** | Feb 2022 – Aug 2023 |
 | Jr. PHP Developer | **Techeduworld** | Jul 2020 – Jan 2022 |
 
-> ✨ **Highlights** — Architected AWS infrastructure for a loan management platform · Built enterprise CMS for **Presidency University, Manav Rachna, Cooke & Kelvey (Rolex), ORF** · Delivered REST APIs and **Stripe / PayPal** integrations.
+> ✨ **Highlights** — Leading a team of **4–5 developers** at Misha Infotech, architecting AWS infrastructure for a loan management platform · Collaborated within a **10+ developer team** at Sterco Digitex, delivering enterprise CMS for **Presidency University, Manav Rachna, Cooke & Kelvey (Rolex), ORF** · Delivered REST APIs and **Stripe / PayPal** integrations.
+
+### ⚙️ Notable Technical Decisions
+
+- **Redis Caching (ORF Online)** — Introduced a caching layer for a platform serving **10K+ posts** and **1M+ users**, cutting post page-load time by **2–3 seconds** by eliminating repeated DB hits on high-traffic content.
+- **Queue-Based Loan Pool Module (Salary Now)** — Designed an async workflow where new loan applications are queued on entry and picked up by a pool of **100+ agents**, then routed sequentially through Review → Credit → Banker stages, decoupling intake from downstream processing.
+- **Reusable Blade Components & Traits (Salary Now)** — Built shared Laravel Traits and Blade components to cut code duplication across modules and standardize common logic.
 
 ---
 
