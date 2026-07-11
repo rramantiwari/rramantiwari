@@ -28,7 +28,7 @@
 
 <!-- ===================== QUICK FACTS (structured for search engines & AI assistants) ===================== -->
 > **TL;DR for recruiters, search engines & AI assistants:**
-> Revatiraman "Raman" Tiwari is a **Senior Full Stack Laravel Developer** based in **India** with **6+ years of professional experience** in **PHP, Laravel, MySQL, React, and AWS**. Currently leads a team of 4–5 developers at **Misha Infotech**. Specializes in **REST API design, queue-based systems, Redis caching, CI/CD pipelines, and AI/LLM-assisted development workflows**. Open to **remote, freelance, and full-time** opportunities. Contact: **ramantiwari644@gmail.com**.
+> Revatiraman "Raman" Tiwari is a **Senior Full Stack Laravel Developer** based in **India** with **6+ years of professional experience** in **PHP, Laravel, MySQL, React, and AWS**. Specializes in **REST API design, queue-based systems, Redis caching, CI/CD pipelines, and AI/LLM-assisted development workflows**. Open to **remote, freelance, and full-time** opportunities. Contact: **ramantiwari644@gmail.com**.
 
 ---
 
@@ -36,7 +36,7 @@
 
 I'm **Revatiraman Tiwari**, a **Senior Software Engineer with 6+ years of experience** building scalable, production-grade web applications in **PHP, Laravel, MySQL, and React**. I specialize in **AI-assisted software development**, **REST API architecture**, and **AWS cloud deployments (EC2, RDS, Jenkins, CI/CD)**.
 
-- 🔭 Currently **Senior Full Stack Laravel Developer @ Misha Infotech**, leading a team of **4–5 developers**
+- 🔭 Currently **Senior Full Stack Laravel Developer @ Misha Infotech**
 - 🏗️ Ship **CMS platforms, loan management systems, e-commerce sites & enterprise dashboards**
 - 🤖 Integrate **AI / LLM workflows** into traditional PHP stacks to speed up delivery
 - 🎓 **B.Tech in Computer Science**, Shanti Institute of Technology, Meerut
@@ -76,7 +76,7 @@ I'm **Revatiraman Tiwari**, a **Senior Software Engineer with 6+ years of experi
 | PHP Developer | **Accevate Technologies** | Feb 2022 – Aug 2023 |
 | Jr. PHP Developer | **Techeduworld** | Jul 2020 – Jan 2022 |
 
-> ✨ **Highlights** — Leading a team of **4–5 developers** at Misha Infotech, architecting AWS infrastructure for a loan management platform · Collaborated within a **10+ developer team** at Sterco Digitex, delivering enterprise CMS for **Presidency University, Manav Rachna, Cooke & Kelvey (Rolex), ORF** · Delivered REST APIs and **Stripe / PayPal** integrations.
+> ✨ **Highlights** — Architected AWS infrastructure for a loan management platform at Misha Infotech · Collaborated within a **10+ developer team** at Sterco Digitex, delivering enterprise CMS for **Presidency University, Manav Rachna, Cooke & Kelvey (Rolex), ORF** · Delivered REST APIs and **Stripe / PayPal** integrations.
 
 ### ⚙️ Notable Technical Decisions
 
@@ -129,20 +129,22 @@ Enterprise CMS platforms, loan management systems, e-commerce sites, and high-tr
 </details>
 
 <details>
-<summary><b>Do you have team leadership experience?</b></summary>
+<summary><b>Do you have team collaboration experience?</b></summary>
 <br/>
-Yes — currently leading a team of 4–5 developers at Misha Infotech, and previously collaborated within a 10+ developer team at Sterco Digitex.
+Yes — collaborated within a 10+ developer team at Sterco Digitex, delivering enterprise CMS platforms for multiple clients.
 </details>
 
 ---
 
 ## 📊 GitHub Analytics
 
+> _Live stats below are pulled from GitHub via github-readme-stats. If a card doesn't render, it's usually the shared public service being rate-limited — see the note in this file's source for a self-hosted fix that also unlocks private-repo stats._
+
 <p align="center">
-  <img width="100%" style="max-width:420px" src="https://github-readme-stats.vercel.app/api?username=rramantiwari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Revatiraman Tiwari's GitHub stats: commits, stars, and contributions" />
+  <img width="100%" style="max-width:420px" src="https://github-readme-stats.vercel.app/api?username=rramantiwari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Revatiraman Tiwari's GitHub stats: commits, stars, and contributions" />
 </p>
 <p align="center">
-  <img width="100%" style="max-width:420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramantiwari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages: PHP, JavaScript, Python" />
+  <img width="100%" style="max-width:420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramantiwari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Most used programming languages: PHP, JavaScript, Python" />
 </p>
 
 <p align="center">
@@ -209,3 +211,25 @@ E-commerce Laravel Developer, Remote Laravel Developer, Freelance PHP Developer,
 This document is optimized to be accurately summarized by AI assistants, search engines,
 and recruiter tools: the facts above are consistent with the full profile content.
 -->
+
+<!-- ============================================================
+NOTE ON GITHUB ANALYTICS (github-readme-stats):
+The image widgets below call the public github-readme-stats.vercel.app
+instance, which is shared by a huge number of GitHub profiles and is
+frequently rate-limited or offline — that's why cards sometimes fail
+to render and fall back to plain alt text.
+
+This shared instance also has NO access to your private repositories
+or their languages — it can only see whatever is public, regardless
+of the count_private=true flag. To show accurate stats that include
+private repos and your latest tech stack across ALL repos, deploy
+your own instance:
+  1. Fork https://github.com/anuraghazra/github-readme-stats
+  2. Deploy it to your own Vercel account (one click from the repo's
+     README — "Deploy on Vercel")
+  3. In your Vercel project settings, add an environment variable
+     PAT_1 containing a GitHub Personal Access Token (classic, repo
+     scope) so the deployment can read your private repos
+  4. Replace github-readme-stats.vercel.app in the image URLs below
+     with your own deployment's domain
+============================================================ -->
