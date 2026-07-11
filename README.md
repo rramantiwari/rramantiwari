@@ -1,12 +1,12 @@
 <!-- ===================== ANIMATED HEADER ===================== -->
 <a href="https://github.com/rramantiwari">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Revatiraman%20Tiwari&fontSize=55&fontAlignY=38&fontColor=ffffff&desc=Senior%20Full%20Stack%20Laravel%20Developer%20%7C%20PHP%20%7C%20React%20%7C%20AI&descAlignY=58&descAlign=50&animation=fadeIn" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Revatiraman%20Tiwari&fontSize=55&fontAlignY=38&fontColor=ffffff&desc=Senior%20Full%20Stack%20Laravel%20Developer%20%7C%20PHP%20%7C%20React%20%7C%20AI&descAlignY=58&descAlign=50&animation=fadeIn" alt="header" />
 </a>
 
 <!-- ===================== TYPING SVG ===================== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/raman-tiwari/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00B5D8&center=true&vCenter=true&width=720&lines=Senior+Software+Engineer+%E2%80%A2+6%2B+Years+Experience;PHP+%E2%9A%A1+Laravel+%E2%9A%A1+MySQL+%E2%9A%A1+React+%E2%9A%A1+AWS;Building+Scalable%2C+AI-Assisted+Web+Products;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="typing" />
+    <img width="100%" style="max-width:720px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00B5D8&center=true&vCenter=true&width=720&lines=Senior+Software+Engineer+%E2%80%A2+6%2B+Years+Experience;PHP+%E2%9A%A1+Laravel+%E2%9A%A1+MySQL+%E2%9A%A1+React+%E2%9A%A1+AWS;Building+Scalable%2C+AI-Assisted+Web+Products;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="typing" />
   </a>
 </p>
 
@@ -20,11 +20,7 @@
 
 <br/>
 
-<!-- ===================== ABOUT ME (with side GIF) ===================== -->
-<table>
-<tr>
-<td width="60%" valign="top">
-
+<!-- ===================== ABOUT ME (stacked for mobile) ===================== -->
 ## 🧠 About Me
 
 I'm **Revatiraman Tiwari**, a **Senior Software Engineer with 6+ years of experience** crafting scalable web applications in **PHP, Laravel, MySQL, and React**.
@@ -37,21 +33,16 @@ I specialize in **AI-assisted development**, **REST API architecture**, and **AW
 - 📍 Based in India · Open to **remote opportunities**
 - ⚡ Fun fact: *I believe clean architecture > clever hacks*
 
-</td>
-<td width="40%" valign="top">
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="coding animation"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="320" alt="coding animation"/>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,react,python,nodejs,aws,git,linux,bootstrap,postman,docker,nginx,vscode&perline=8" />
+  <img width="100%" style="max-width:700px" src="https://skillicons.dev/icons?i=php,laravel,mysql,js,react,python,nodejs,aws,git,linux,bootstrap,postman,docker,nginx,vscode&perline=8" />
 </p>
 
 **Languages** — PHP · JavaScript · Python · SQL · HTML5 · CSS3
@@ -107,34 +98,38 @@ I specialize in **AI-assisted development**, **REST API architecture**, and **AW
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rramantiwari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramantiwari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="100%" style="max-width:420px" src="https://github-readme-stats.vercel.app/api?username=rramantiwari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+<p align="center">
+  <img width="100%" style="max-width:420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramantiwari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rramantiwari&theme=tokyonight&hide_border=true" />
+  <img width="100%" style="max-width:600px" src="https://github-readme-streak-stats.herokuapp.com/?user=rramantiwari&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- github-profile-trophy is currently disabled, so this uses stable summary cards instead -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rramantiwari&theme=tokyonight" alt="Raman Tiwari GitHub profile summary" />
+  <img width="100%" style="max-width:600px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rramantiwari&theme=tokyonight" alt="Raman Tiwari GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rramantiwari&theme=tokyonight" alt="Top repositories by language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rramantiwari&theme=tokyonight&utcOffset=5.5" alt="Productive coding time" />
+  <img width="100%" style="max-width:420px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rramantiwari&theme=tokyonight" alt="Top repositories by language" />
+</p>
+<p align="center">
+  <img width="100%" style="max-width:420px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rramantiwari&theme=tokyonight&utcOffset=5.5" alt="Productive coding time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rramantiwari&theme=tokyo-night&hide_border=true&area=true" alt="Raman Tiwari GitHub activity graph" />
+  <img width="100%" style="max-width:700px" src="https://github-readme-activity-graph.vercel.app/graph?username=rramantiwari&theme=tokyo-night&hide_border=true&area=true" alt="Raman Tiwari GitHub activity graph" />
 </p>
 
 <!-- ===================== ANIMATED SNAKE ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rramantiwari/rramantiwari/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img width="100%" style="max-width:700px" src="https://raw.githubusercontent.com/rramantiwari/rramantiwari/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
- 
+
 ---
 
 ## 📫 Let's Connect
@@ -151,7 +146,7 @@ I specialize in **AI-assisted development**, **REST API architecture**, and **AW
 </p>
 
 <!-- ===================== ANIMATED FOOTER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" alt="footer"/>
 
 <!--
 SEO keywords: Senior Laravel Developer India, PHP Developer, Full Stack Engineer,
