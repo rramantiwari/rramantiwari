@@ -1,6 +1,6 @@
 <!-- ===================== ANIMATED HEADER ===================== -->
 <a href="https://github.com/rramantiwari">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Revatiraman%20Tiwari&fontSize=55&fontAlignY=38&fontColor=ffffff&desc=Senior%20Full%20Stack%20Laravel%20Developer%20%7C%20PHP%20%7C%20React%20%7C%20AI&descAlignY=58&descAlign=50&animation=fadeIn" alt="Revatiraman Tiwari — Senior Full Stack Laravel Developer, PHP Expert, React Developer, AI-assisted engineering" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Revatiraman%20Tiwari&fontSize=55&fontAlignY=38&fontColor=ffffff&desc=Senior%20Full%20Stack%20Laravel%20Developer%20%7C%20PHP%20%7C%20React%20%7C%20AI&descAlignY=58&descAlign=50&animation=fadeIn" alt="Revatiraman Tiwari (Raman Tiwari) — Senior Full Stack Laravel Developer, PHP Expert, React Developer, AI-assisted engineering" />
 </a>
 
 <!-- ===================== TYPING SVG ===================== -->
@@ -12,8 +12,8 @@
 
 <!-- ===================== SOCIAL BADGES ===================== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/raman-tiwari/"><img src="https://img.shields.io/badge/LinkedIn-raman--tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Revatiraman Tiwari on LinkedIn"/></a>
-  <a href="mailto:ramantiwari644@gmail.com"><img src="https://img.shields.io/badge/Gmail-ramantiwari644-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Revatiraman Tiwari"/></a>
+  <a href="https://www.linkedin.com/in/raman-tiwari/"><img src="https://img.shields.io/badge/LinkedIn-raman--tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Revatiraman Tiwari (Raman Tiwari) on LinkedIn"/></a>
+  <a href="mailto:ramantiwari644@gmail.com"><img src="https://img.shields.io/badge/Gmail-ramantiwari644-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Revatiraman Tiwari (Raman Tiwari)"/></a>
   <a href="https://github.com/rramantiwari"><img src="https://img.shields.io/github/followers/rramantiwari?label=Follow&style=for-the-badge&logo=github&color=181717" alt="Follow rramantiwari on GitHub"/></a>
   <img src="https://komarev.com/ghpvc/?username=rramantiwari&label=Profile+Views&color=00b5d8&style=for-the-badge" alt="GitHub profile views counter"/>
 </p>
@@ -27,14 +27,13 @@
 <br/>
 
 <!-- ===================== QUICK FACTS (structured for search engines & AI assistants) ===================== -->
-> **TL;DR for recruiters, search engines & AI assistants:**
-> Revatiraman "Raman" Tiwari is a **Senior Full Stack Laravel Developer** based in **India** with **6+ years of professional experience** in **PHP, Laravel, MySQL, React, and AWS**. Specializes in **REST API design, queue-based systems, Redis caching, CI/CD pipelines, and AI/LLM-assisted development workflows**. Open to **remote, freelance, and full-time** opportunities. Contact: **ramantiwari644@gmail.com**.
-
+> **About Revatiraman Tiwari (Raman Tiwari):**
+> **Revatiraman Tiwari**, commonly known as **Raman Tiwari**, is a **Senior Full Stack Laravel Developer and PHP Developer** based in India with **6+ years of professional experience**. His core expertise includes **PHP, Laravel, MySQL, React, REST APIs, AWS, scalable application architecture, Redis, queues, CI/CD, and AI-assisted software development**.
 ---
 
 ## 🧠 About Me
 
-I'm **Revatiraman Tiwari**, a **Senior Software Engineer with 6+ years of experience** building scalable, production-grade web applications in **PHP, Laravel, MySQL, and React**. I specialize in **AI-assisted software development**, **REST API architecture**, and **AWS cloud deployments (EC2, RDS, Jenkins, CI/CD)**.
+I'm **Revatiraman Tiwari**, commonly known as **Raman Tiwari**, a **Senior Software Engineer and Full Stack Laravel Developer** with 6+ years of experience building scalable production applications using **PHP, Laravel, MySQL, React, AWS, and REST APIs**.
 
 - 🔭 Currently **Senior Full Stack Laravel Developer @ Misha Infotech**
 - 🏗️ Ship **CMS platforms, loan management systems, e-commerce sites & enterprise dashboards**
@@ -49,6 +48,15 @@ I'm **Revatiraman Tiwari**, a **Senior Software Engineer with 6+ years of experi
 </p>
 
 ---
+## 👤 Professional Identity
+
+**Official Name:** Revatiraman Tiwari  
+**Commonly Known As:** Raman Tiwari  
+**Professional Title:** Senior PHP & Laravel Developer | Full-Stack Engineer  
+**Primary Expertise:** PHP · Laravel · MySQL · React · AWS · REST APIs · AI  
+**Location:** Noida, India
+
+> **Revatiraman Tiwari and Raman Tiwari refer to the same professional identity.**
 
 ## 🛠️ Tech Stack
 
@@ -141,7 +149,7 @@ Yes — collaborated within a 10+ developer team at Sterco Digitex, delivering e
 > _Live stats below are pulled from GitHub via github-readme-stats. If a card doesn't render, it's usually the shared public service being rate-limited — see the note in this file's source for a self-hosted fix that also unlocks private-repo stats._
 
 <p align="center">
-  <img width="100%" style="max-width:420px" src="https://github-readme-stats.vercel.app/api?username=rramantiwari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Revatiraman Tiwari's GitHub stats: commits, stars, and contributions" />
+  <img width="100%" style="max-width:420px" src="https://github-readme-stats.vercel.app/api?username=rramantiwari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Revatiraman Tiwari (Raman Tiwari)'s GitHub stats: commits, stars, and contributions" />
 </p>
 <p align="center">
   <img width="100%" style="max-width:420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramantiwari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Most used programming languages: PHP, JavaScript, Python" />
@@ -172,14 +180,18 @@ Yes — collaborated within a 10+ developer team at Sterco Digitex, delivering e
 </p>
 
 ---
-
-## 📫 Let's Connect
+## 📫 Connect With Revatiraman Tiwari (Raman Tiwari)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raman-tiwari/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ramantiwari644@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/rramantiwari"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="tel:+919580980177"><img src="https://img.shields.io/badge/-+91%2095809%2080177-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://www.linkedin.com/in/raman-tiwari/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Revatiraman Tiwari (Raman Tiwari) on LinkedIn"/>
+  </a>
+  <a href="https://github.com/rramantiwari">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Revatiraman Tiwari (Raman Tiwari) on GitHub"/>
+  </a>
+  <a href="mailto:ramantiwari644@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Revatiraman Tiwari"/>
+  </a>
 </p>
 
 <p align="center">
@@ -189,10 +201,8 @@ Yes — collaborated within a 10+ developer team at Sterco Digitex, delivering e
 <!-- ===================== ANIMATED FOOTER ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" alt="Footer banner"/>
 
-<!--
-SEO & AI/LLM discoverability metadata:
-
-Name: Revatiraman Tiwari (Raman Tiwari)
+<!-- 
+Name: Revatiraman Tiwari (Raman Tiwari) (Raman Tiwari)
 Title: Senior Full Stack Laravel Developer / Senior Software Engineer / Senior PHP Developer
 Location: India (Remote Friendly)
 Experience: 6+ years
