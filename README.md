@@ -1,20 +1,20 @@
 <div align="center">
 
   <!-- ========================================================= -->
-  <!-- ⚡ HERO HEADER — ULTRA FAST & AESTHETIC GRADIENT          -->
+  <!-- ⚡ HERO BANNER — MODERN GRADIENT & FAST SVG LOAD          -->
   <!-- ========================================================= -->
   <a href="https://www.linkedin.com/in/raman-tiwari/">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,25&height=220&section=header&text=Raman%20Tiwari&fontSize=50&fontAlignY=36&fontColor=ffffff&desc=Fullstack%20Engineer%20%7C%20Laravel%20%E2%80%A2%20React%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Cloud&descAlignY=58&descAlign=50&descSize=19&animation=fadeIn" alt="Raman Tiwari Banner" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,25&height=230&section=header&text=Raman%20Tiwari&fontSize=50&fontAlignY=36&fontColor=ffffff&desc=Fullstack%20Engineer%20%7C%20Laravel%20%E2%80%A2%20React%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Cloud&descAlignY=58&descAlign=50&descSize=19&animation=fadeIn" alt="Raman Tiwari Banner" />
   </a>
 
-  <!-- Gen Z Aesthetic Quick Typing Hook -->
+  <!-- Animated Typing SVG for Core Skills & Experience -->
   <a href="https://www.linkedin.com/in/raman-tiwari/">
-    <img width="100%" style="max-width:700px" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=800&color=00F2FE&center=true&vCenter=true&width=700&lines=Fullstack+Dev+%40+Infiniti+Tech+Solution;Shipping+SaaS%2C+Agentic+AI+%26+Fintech+Systems;Top+25%25+TestDome+Certified+Laravel+Engineer;Building+things+that+scale+and+don't+break+at+3AM;6%2B+Years+of+Production+Receipts+%E2%9A%A1" alt="Typing Animation" />
+    <img width="100%" style="max-width:720px" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=800&color=00F2FE&center=true&vCenter=true&width=720&lines=Fullstack+Dev+%40+Infiniti+Tech+Solution;Architecting+Govt+Portals%2C+AI+Systems+%26+ERP+Platforms;Shipped+for+Parle%2C+Amity+University+%26+Global+Govts;Top+25%25+TestDome+Certified+Laravel+Engineer;Building+systems+that+scale+to+millions+of+users" alt="Skills Typing Animation" />
   </a>
 
   <br/>
 
-  <!-- High-Trust Social Proof & Verified Contact Pills -->
+  <!-- High-Trust Social & Contact Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/raman-tiwari/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect%20%E2%86%92-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -25,7 +25,7 @@
     </a>
     &nbsp;
     <a href="mailto:ramantiwari644@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      <img src="https://img.shields.io/badge/Email-ramantiwari644%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     &nbsp;
     <a href="tel:+919580980177">
@@ -33,12 +33,12 @@
     </a>
   </p>
 
-  <!-- Status Badges -->
+  <!-- Modern Status Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/%F0%9F%94%B4%20Status-Cooking%20Code%20%40%20Infiniti%20Tech-18181b?style=flat&colorA=09090b&colorB=00F2FE" alt="Status"/>
-    <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Ranked-Top%2025%25%20Laravel%20Global-18181b?style=flat&colorA=09090b&colorB=10B981" alt="Top 25% Rank"/>
-    <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Base-Noida%2C%20India%20%2F%20Remote-18181b?style=flat&colorA=09090b&colorB=8B5CF6" alt="Location"/>
-    <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20Vibe-Clean%20Architecture%20Over%20Clever%20Hacks-18181b?style=flat&colorA=09090b&colorB=EC4899" alt="Vibe"/>
+    <img src="https://img.shields.io/badge/%F0%9F%94%B4%20Current%20Role-Fullstack%20Dev%20%40%20Infiniti%20Tech%20Solution-18181b?style=flat&colorA=09090b&colorB=00F2FE" alt="Role"/>
+    <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Global%20Rank-Top%2025%25%20Laravel%20(TestDome)-18181b?style=flat&colorA=09090b&colorB=10B981" alt="Rank"/>
+    <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Noida%2C%20India%20(Remote%20Friendly)-18181b?style=flat&colorA=09090b&colorB=8B5CF6" alt="Location"/>
+    <img src="https://img.shields.io/badge/%E2%9A%A1%20Experience-6%2B%20Years%20Production-18181b?style=flat&colorA=09090b&colorB=F59E0B" alt="Experience"/>
   </p>
 
 </div>
@@ -47,37 +47,82 @@
 
 ### 🧬 The TL;DR (Who I Am)
 
-Hey there! I’m **Revatiraman Tiwari** (you can call me **Raman**). I'm a **Fullstack Software Engineer** with **6+ years of experience** building high-throughput backends, fluid UIs, and real-world AI pipelines. 
+Hey! I’m **Revatiraman Tiwari** (known as **Raman**). I'm a **Fullstack Software Engineer** with **6+ years of production experience** designing, scaling, and shipping mission-critical systems. 
 
-Currently, I'm building modern full-stack products at **[Infiniti Tech Solution](https://www.infinititechsolution.com/)**. Before this, I engineered distributed systems at **Misha Infotech**, **Salary Now (Fintech)**, and **Sterco Digitex**.
+I've engineered platforms for **national governments** (Police firearms licensing, social security, consumer affairs), **prestigious universities** (Amity, Manav Rachna, DIT), **enterprise FMCG icons** ([Parle Products](https://www.parleproducts.com/), [Cooke & Kelvey](https://www.cookeandkelvey.com/)), and high-throughput **Fintech & AI platforms**.
 
 ```bash
-raman@portfolio:~$ curl -s https://api.ramantiwari.dev/stats
+raman@portfolio:~$ curl -s https://api.ramantiwari.dev/profile
 {
-  "name": "Revatiraman Tiwari (Raman)",
-  "role": "Fullstack Developer @ Infiniti Tech Solution",
-  "experience": "6+ Years in Production",
-  "stack_primary": ["Laravel", "PHP 8+", "React", "MySQL", "AWS", "Agentic AI"],
-  "superpower": "Slashing API latency & shipping scalable microservices",
-  "open_to": "High-impact engineering, tech talks & consulting"
+  "name": "Revatiraman Tiwari (Raman Tiwari)",
+  "title": "Fullstack Developer @ Infiniti Tech Solution",
+  "verified_credentials": ["TestDome Top 25% Laravel", "IBM Data Science Level 2", "CockroachDB Distributed SQL"],
+  "core_stack": ["Laravel", "PHP 8+", "React", "Node.js", "MySQL", "AWS", "Agentic AI"],
+  "production_footprint": ["Government Portals", "FMCG Giants", "Universities", "Fintech Engines"],
+  "philosophy": "Clean architecture beats clever hacks. Always."
 }
 ```
 
 ---
 
-### 🧾 Verified Receipts (Proof of Work)
+### 🏛️ Battle-Tested Enterprise & Government Projects
 
-*Talk is cheap, here's the verified proof of work:*
+*Here are key production platforms I have built, scaled, and deployed:*
 
-| What I Did | Scale & Impact | Proof / Credential |
+#### 🛡️ 1. Government & Public Sector Portals
+| Project | Live Link | Tech Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **Firearm Licence Online** | [firearms.police.kn](https://firearms.police.kn/) | `React` · `Laravel` | Official digital law enforcement licensing system for police administration. |
+| **Consumer Affairs Portal** | [consumeraffairs.gov.kn](https://consumeraffairs.gov.kn/) | `Laravel` · `MySQL` | National citizen consumer protection & complaint management portal. |
+| **Social Security (Beta)** | [beta.socialsecurity.kn](https://beta.socialsecurity.kn/) | `React` · `Node.js` | National digital social security contributions & benefits management engine. |
+| **CARI Research Institute** | [cari.res.in](https://cari.res.in/) | `Laravel` · `MySQL` | Central Avian Research Institute (Govt of India premier research body). |
+
+#### 🎓 2. Premier Universities & Higher Education CMS
+| Project | Live Link | Tech Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **Amity University** | [amity.edu](https://www.amity.edu/) | `CodeIgniter 4` · `MySQL` | High-traffic digital infrastructure for one of India's premier global universities. |
+| **Manav Rachna University** | [manavrachna.edu.in](https://manavrachna.edu.in/) | `CodeIgniter 4.5` · `MySQL` | Centralized multi-campus institutional management and academic portal. |
+| **DIT University** | [dituniversity.edu.in](https://www.dituniversity.edu.in/) | `CodeIgniter` · `MySQL` | Leading engineering and technology university digital campus portal. |
+| **Sakoon Education** | [sakooneducation.com](https://sakooneducation.com/) | `React` · `Laravel` | UK-based interactive learning, courses, and student evaluation portal. |
+
+#### 🏢 3. Enterprise Brands, FMCG & Luxury Retail
+| Project | Live Link | Tech Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **Parle Products** | [parleproducts.com](https://www.parleproducts.com/) | `CodeIgniter` · `MySQL` | Digital platform for India’s largest biscuit & confectionery brand (Parle-G). |
+| **Cooke & Kelvey** | [cookeandkelvey.com](https://www.cookeandkelvey.com/) | `Laravel 12` · `APIs` | Official luxury retail portal for **Rolex & Tudor** timepieces with inventory sync. |
+| **Bharat Masala** | [bharatmasala.in](https://bharatmasala.in/) | `Laravel` · `MySQL` | Large-scale FMCG spice manufacturer and e-commerce distribution portal. |
+| **ITP Agri Solutions** | [itpagrisolutions.com](https://www.itpagrisolutions.com/) | `Laravel` · `MySQL` | Modern digital agricultural management and industrial agri-tech platform. |
+
+#### 🤖 4. AI Platforms, Fintech & SaaS Solutions
+| Project | Live Link | Tech Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **Debate AI** | [debateai.skntreasury.com](https://debateai.skntreasury.com/) | `React` · `Node.js` · `AI` | High-level interactive treasury debate AI analytical engine. |
+| **Loan Management (SalaryNow)** | *Internal Fintech Portal* | `Laravel` · `AI Integration` | Asynchronous queue loan engine serving **100+ agents** across multi-tier approvals. |
+| **Accevate ERP** | [accevate.in](https://accevate.in/) | `Laravel` · `MySQL` | Enterprise ERP system for workflow automation, payroll, and business logic. |
+| **Sakoon Counseling** | [sakoon.co.uk](https://sakoon.co.uk/) | `Laravel` · `MySQL` | UK confidential mental health & therapeutic booking and counseling platform. |
+| **Ripple Challenges** | [passtheripple.com](https://passtheripple.com/) | `React` · `Laravel` | Global social engagement challenge community platform. |
+
+---
+
+### 🧾 Verified Receipts (Credentials & Proof of Work)
+
+<div align="center">
+
+| Credential / Metric | Issuing Authority | Status & Evidence |
 | :--- | :--- | :--- |
-| **ORF Online Platform** | Built Redis caching for **10,000+ posts & 1M+ active users** | ⚡ **Reduced latency by 2–3s** |
-| **Salary Now (Fintech)** | Async queue engine distributing loans to **100+ agents** | 🛡️ **Zero dropped transactions** |
-| **TestDome Global Exam** | Verified Laravel Developer Certification | 🥇 **[Top 25% Global Rank](https://www.testdome.com/certificates/32221773dd3a440d904278906171c143)** |
-| **Applied Data Science** | Python Data Science Level 2 by IBM | 📜 **[Verify on Credly](https://www.credly.com/go/gumWo2pj)** |
-| **Distributed SQL** | CockroachDB & Cloud Distributed Systems | 🎓 **Cockroach Labs Certified** |
-| **Android Engineering** | Official Android Certification Program | 📱 **Signed by VP Android Eng** |
-| **Open Source Activity** | 44 Repositories & Active Green Graph | 🟢 **1,400+ commits this year** |
+| 🥇 **Laravel Developer (Top 25% Globally)** | **TestDome** | **[Verified Public Credential](https://www.testdome.com/certificates/32221773dd3a440d904278906171c143)** |
+| 🐍 **Applied Data Science with Python (Level 2)** | **IBM / Cognitive Class** | **[Verify Credly Badge](https://www.credly.com/go/gumWo2pj)** |
+| 🗄️ **Distributed SQL & CockroachDB** | **Cockroach Labs** | **Verified Certification** |
+| 🐘 **PHP with Laravel Training (Grade A+)** | **Softpro India / POLYPREP** | **Certificate `SPI/VT/2021/112`** |
+| 📱 **Android Mobile Engineering** | **Google / Android** | **Signed by VP of Android Engineering** |
+| 💻 **Python (Basic) Certification** | **HackerRank** | **ID `41510FD44198`** |
+| ☕ **Java (Basic) Certification** | **HackerRank** | **ID `3D178367D80D`** |
+| 📈 **Growth-Driven Design** | **HubSpot Academy** | **Cert `7b2dc2c1fc5f464eb18a4fff73645028`** |
+| 🌐 **Fundamentals of Digital Marketing** | **Google Digital Unlocked** | **Cert `DL5 2LA 38E`** |
+| 📊 **High-Traffic Scale (ORF Online)** | **Production Metric** | **1M+ users · 10K+ posts · 2-3s latency cut** |
+| 🟢 **GitHub Contribution Velocity** | **GitHub Analytics** | **1,400+ contributions in the past year** |
+
+</div>
 
 ---
 
@@ -93,71 +138,37 @@ raman@portfolio:~$ curl -s https://api.ramantiwari.dev/stats
 
 <br/>
 
-<div align="center">
-
-| Layer | Tools I Swear By |
+| Layer | Technologies & Tools |
 | :--- | :--- |
-| **Backend** | `PHP 8+` · `Laravel 11` · `CodeIgniter` · `Node.js` · `REST/GraphQL` · `Queue Workers` |
-| **Frontend** | `React.js` · `React Native` · `TypeScript` · `Next.js` · `Tailwind CSS` · `Zustand` |
-| **Data & Cache** | `MySQL` · `PostgreSQL` · `Redis (In-Memory)` · `CockroachDB (Distributed SQL)` |
-| **Cloud & DevOps** | `AWS (EC2, RDS, S3)` · `Docker` · `Nginx` · `Ubuntu Linux` · `CI/CD Pipelines` |
+| **Backend** | `PHP 8+` · `Laravel (8-12)` · `CodeIgniter (3/4.5)` · `Node.js` · `REST/GraphQL APIs` · `Queue Workers` |
+| **Frontend & Mobile** | `React.js` · `React Native` · `TypeScript` · `Next.js` · `Tailwind CSS` · `Bootstrap (4/5)` |
+| **Databases & Cache** | `MySQL` · `PostgreSQL` · `Redis In-Memory` · `CockroachDB (Distributed SQL)` · `MariaDB` |
+| **DevOps & Cloud** | `AWS (EC2, RDS, S3, IAM)` · `Ubuntu Linux` · `Nginx` · `Docker` · `CI/CD Pipelines` · `Git` |
 | **AI & Automation** | `Agentic AI Workflows` · `OpenAI / Gemini SDK` · `LLM Tool Calling` · `UiPath RPA` |
 
-</div>
-
 ---
 
-### 🚀 Production Highlights & Live Work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏛️ ORF Online</h4>
-      <p>High-traffic policy and global debate platform serving <b>1M+ monthly users</b> and <b>10,000+ publications</b>. Engineered high-speed Redis caching architecture.</p>
-      <code>Laravel 9</code> <code>Redis</code> <code>MySQL</code> <code>High-Concurrency</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💳 Salary Now Fintech</h4>
-      <p>Enterprise digital lending platform. Architected asynchronous loan queue pools with multi-tier underwriting for <b>100+ active loan agents</b>.</p>
-      <code>Laravel</code> <code>MySQL</code> <code>IMAP Engine</code> <code>Fintech Security</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⌚ Cooke & Kelvey</h4>
-      <p>Official luxury retail platform for <b>Rolex & Tudor</b> watches with automated real-time inventory and catalog API sync.</p>
-      <code>Laravel</code> <code>REST API</code> <code>cURL Integrations</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📱 OSQR Attendance System</h4>
-      <p>Real-time dynamic session-based QR code generator eliminating proxy attendance in university and corporate environments.</p>
-      <code>Core PHP 8</code> <code>JavaScript</code> <code>Ajax</code> <code>QR Auth</code>
-    </td>
-  </tr>
-</table>
-
----
-
-### 💼 Where I’ve Shipped Code
+### 💼 Career Timeline
 
 - **Infiniti Tech Solution** (`Sep 2026 – Present`) — *Fullstack Developer*  
-  Building enterprise SaaS, healthcare, and fintech client products.
+  Architecting full-stack web and mobile systems for enterprise clients across SaaS, Healthcare, E-Commerce, and Fintech.
 - **Misha Infotech** (`May 2025 – Aug 2026`) — *Senior Full Stack Laravel Developer*  
-  Lead Laravel architecture, Agentic AI automation, and React/React Native apps.
+  Led enterprise Laravel architecture, Agentic AI automation, and React/React Native apps.
 - **Salary Now Fintech** (`Nov 2024 – May 2025`) — *Senior Laravel Developer*  
-  Built queue-based financial engines and secure email verification pipelines.
+  Engineered queue-based financial underwriting engines and secure transactional email pipelines.
 - **Sterco Digitex** (`Aug 2023 – Nov 2024`) — *Senior PHP Developer*  
-  Scaled ORF Online to 1M+ users; created reusable Laravel component design systems.
+  Scaled ORF Online to 1M+ users with Redis caching; standardized reusable component systems.
 - **ACCEVATE TECHNOLOGIES** (`Feb 2022 – Aug 2023`) — *PHP Developer*  
-  Built custom MVC web architectures and mobile-ready backend APIs.
+  Delivered custom enterprise ERP platforms and mobile API backends.
+- **Techeduworld Technology** (`Jul 2020 – Feb 2022`) — *Jr. PHP / Laravel Developer*  
+  Built EdTech LMS and assessment portals with Stripe/PayPal integrations.
 
 ---
 
-### ⚡ Fast-Loading GitHub Activity
+### ⚡ Fast-Loading GitHub Analytics
 
 <div align="center">
 
-  <!-- Clean, fast-loading stats from vercel CDN -->
   <a href="https://github.com/rramantiwari">
     <img src="https://github-readme-stats.vercel.app/api?username=rramantiwari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Raman Tiwari GitHub Stats" width="48%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramantiwari&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%"/>
@@ -167,9 +178,9 @@ raman@portfolio:~$ curl -s https://api.ramantiwari.dev/stats
 
 ---
 
-### 🤝 Let's Build Something Huge
+### 🤝 Let's Build Something Extraordinary
 
-Whether you need a rock-solid **Senior Fullstack / Laravel engineer**, want to integrate **Agentic AI into your backend**, or just want to talk software architecture — my inbox and phone are open:
+Whether you need a senior engineer who has built for **governments, universities, and FMCG giants**, want to integrate **Agentic AI into your backend**, or scale your **Laravel / React ecosystem**:
 
 <div align="center">
 
@@ -187,11 +198,11 @@ Whether you need a rock-solid **Senior Fullstack / Laravel engineer**, want to i
 
   <br/><br/>
 
-  <!-- Fast & Aesthetic Footer Wave -->
+  <!-- Fast & Minimalist Footer Wave -->
   <a href="https://github.com/rramantiwari">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,25&height=100&section=footer&animation=fadeIn" alt="Footer Wave" />
   </a>
 
-  <sub>Crafted for <b>Revatiraman Tiwari (Raman Tiwari)</b> · <i>Clean architecture beats clever hacks. Always.</i></sub>
+  <sub>Engineered with precision for <b>Revatiraman Tiwari (Raman Tiwari)</b> · <i>Clean architecture beats clever hacks. Always.</i></sub>
 
 </div>
