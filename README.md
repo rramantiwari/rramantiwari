@@ -70,8 +70,8 @@ raman@portfolio:~$ curl -s https://api.ramantiwari.dev/profile
 *Here are key production platforms I have built, scaled, and deployed:*
 
 #### 🛡️ 1. Government & Public Sector Portals
-| Project | Live Link | Tech Stack | Highlights |
-| :--- | :--- | :--- | :--- |
+| Project | Tech Stack | Highlights |
+| :--- | :--- | :--- |
 | **Firearm Licence Online**  | `React` · `Laravel` | Official digital law enforcement licensing system for police administration. |
 | **Consumer Affairs Portal** | `Laravel` · `MySQL` | National citizen consumer protection & complaint management portal. |
 | **Social Security (Beta)**  | `React` · `Node.js` | National digital social security contributions & benefits management engine. |
