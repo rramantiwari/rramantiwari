@@ -72,10 +72,10 @@ raman@portfolio:~$ curl -s https://api.ramantiwari.dev/profile
 #### 🛡️ 1. Government & Public Sector Portals
 | Project | Live Link | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
-| **Firearm Licence Online** | [firearms.police.kn](https://firearms.police.kn/) | `React` · `Laravel` | Official digital law enforcement licensing system for police administration. |
-| **Consumer Affairs Portal** | [consumeraffairs.gov.kn](https://consumeraffairs.gov.kn/) | `Laravel` · `MySQL` | National citizen consumer protection & complaint management portal. |
-| **Social Security (Beta)** | [beta.socialsecurity.kn](https://beta.socialsecurity.kn/) | `React` · `Node.js` | National digital social security contributions & benefits management engine. |
-| **CARI Research Institute** | [cari.res.in](https://cari.res.in/) | `Laravel` · `MySQL` | Central Avian Research Institute (Govt of India premier research body). |
+| **Firearm Licence Online**  | `React` · `Laravel` | Official digital law enforcement licensing system for police administration. |
+| **Consumer Affairs Portal** | `Laravel` · `MySQL` | National citizen consumer protection & complaint management portal. |
+| **Social Security (Beta)**  | `React` · `Node.js` | National digital social security contributions & benefits management engine. |
+| **CARI Research Institute** `Laravel` · `MySQL` | Central Avian Research Institute (Govt of India premier research body). |
 
 #### 🎓 2. Premier Universities & Higher Education CMS
 | Project | Live Link | Tech Stack | Highlights |
@@ -96,7 +96,7 @@ raman@portfolio:~$ curl -s https://api.ramantiwari.dev/profile
 #### 🤖 4. AI Platforms, Fintech & SaaS Solutions
 | Project | Live Link | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
-| **Debate AI** | [debateai.skntreasury.com](https://debateai.skntreasury.com/) | `React` · `Node.js` · `AI` | High-level interactive treasury debate AI analytical engine. |
+| **Debate AI**  | `React` · `Node.js` · `AI` | High-level interactive treasury debate AI analytical engine. |
 | **Loan Management (SalaryNow)** | *Internal Fintech Portal* | `Laravel` · `AI Integration` | Asynchronous queue loan engine serving **100+ agents** across multi-tier approvals. |
 | **Accevate ERP** | [accevate.in](https://accevate.in/) | `Laravel` · `MySQL` | Enterprise ERP system for workflow automation, payroll, and business logic. |
 | **Sakoon Counseling** | [sakoon.co.uk](https://sakoon.co.uk/) | `Laravel` · `MySQL` | UK confidential mental health & therapeutic booking and counseling platform. |
