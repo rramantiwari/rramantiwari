@@ -164,18 +164,7 @@ raman@portfolio:~$ curl -s https://api.ramantiwari.dev/profile
 
 ---
 
-### ⚡ Fast-Loading GitHub Analytics
 
-<div align="center">
-
-  <a href="https://github.com/rramantiwari">
-    <img src="https://github-readme-stats.vercel.app/api?username=rramantiwari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Raman Tiwari GitHub Stats" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramantiwari&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%"/>
-  </a>
-
-</div>
-
----
 
 ### 🤝 Let's Build Something Extraordinary
 
