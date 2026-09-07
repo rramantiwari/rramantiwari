@@ -52,7 +52,7 @@ Hey! I’m **Revatiraman Tiwari** (known as **Raman**). I'm a **Fullstack Softwa
 I've engineered platforms for **national governments** (Police firearms licensing, social security, consumer affairs), **prestigious universities** (Amity, Manav Rachna, DIT), **enterprise FMCG icons** ([Parle Products](https://www.parleproducts.com/), [Cooke & Kelvey](https://www.cookeandkelvey.com/)), and high-throughput **Fintech & AI platforms**.
 
 ```bash
-raman@portfolio:~$ curl -s https://api.ramantiwari.dev/profile
+raman@portfolio:~$ curl -s https://raman-tiwari.vercel.app
 {
   "name": "Revatiraman Tiwari (Raman Tiwari)",
   "title": "Fullstack Developer @ Infiniti Tech Solution",
