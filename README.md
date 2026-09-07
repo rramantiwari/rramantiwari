@@ -96,7 +96,6 @@ raman@portfolio:~$ curl -s https://api.ramantiwari.dev/profile
 #### 🤖 4. AI Platforms, Fintech & SaaS Solutions
 | Project | Live Link | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
-| **Debate AI**  | `React` · `Node.js` · `AI` | High-level interactive treasury debate AI analytical engine. |
 | **Loan Management (SalaryNow)** | *Internal Fintech Portal* | `Laravel` · `AI Integration` | Asynchronous queue loan engine serving **100+ agents** across multi-tier approvals. |
 | **Accevate ERP** | [accevate.in](https://accevate.in/) | `Laravel` · `MySQL` | Enterprise ERP system for workflow automation, payroll, and business logic. |
 | **Sakoon Counseling** | [sakoon.co.uk](https://sakoon.co.uk/) | `Laravel` · `MySQL` | UK confidential mental health & therapeutic booking and counseling platform. |
