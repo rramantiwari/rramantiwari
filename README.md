@@ -1,311 +1,197 @@
 <div align="center">
 
-<a href="https://raman-tiwari.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,25&height=200&section=header&text=Raman%20Tiwari&fontSize=54&fontColor=ffffff" alt="Raman Tiwari" />
-</a>
+# Raman Tiwari
 
-## Senior Full-Stack Laravel &amp; React Architect
+### I build SaaS products, fix slow apps, and ship AI that works in production.
 
-<a href="https://raman-tiwari.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=00F2FE&center=true&vCenter=true&width=760&lines=Launch+your+SaaS+MVP+in+3%E2%80%935+weeks;Fix+slow+apps+%E2%80%94+scaled+to+1M%2B+monthly+users+with+Redis;Ship+production-grade+Agentic+AI+%26+LLM+workflows;Government+%26+enterprise+portals+with+audit-grade+security;Top+25%25+TestDome+Laravel+%7C+6%2B+years+in+production" alt="Typing animation" />
-</a>
+**Senior Full-Stack Engineer** · Laravel · React · React Native · Agentic AI · AWS
+
+<a href="https://raman-tiwari.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=00B8D9&center=true&vCenter=true&width=760&lines=Launch+your+SaaS+MVP+in+3%E2%80%935+weeks;Scaled+a+media+platform+to+1M%2B+monthly+readers;Built+portals+for+governments%2C+universities+%26+Parle;Top+25%25+Laravel+developer+on+TestDome" alt="Typing animation" /></a>
 
 <br/>
 
-### 🟢 Open for freelance SaaS MVPs & enterprise contracts · 2026
-
-<br/>
-
-<a href="https://wa.me/919580980177?text=Hi%20Raman%2C%20I%20would%20like%20to%20schedule%20a%2015-minute%20intro%20call%20about%20a%20project."><img src="https://img.shields.io/badge/Book%20a%20Free%2015--Min%20Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Book a free call on WhatsApp"/></a>&nbsp;<a href="mailto:ramantiwari644@gmail.com?subject=Project%20Inquiry&body=Hi%20Raman%2C%0A%0AProject%3A%0ATimeline%3A%0ABudget%3A"><img src="https://img.shields.io/badge/Send%20Project%20Brief-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Raman"/></a>&nbsp;<a href="https://raman-tiwari.vercel.app/#proposal-generator"><img src="https://img.shields.io/badge/Get%20Instant%20Scope-000000?style=for-the-badge&logo=vercel&logoColor=00F2FE" alt="Instant scope estimator"/></a><br/><br/><img src="https://img.shields.io/badge/Top%2025%25-TestDome%20Laravel-10B981?style=flat-square" alt="TestDome"/><img src="https://img.shields.io/badge/1M%2B-Monthly%20Users%20Scaled-00F2FE?style=flat-square&labelColor=09090b" alt="1M+ users"/><img src="https://img.shields.io/badge/20%2B-Enterprise%20%26%20Govt%20Portals-8B5CF6?style=flat-square" alt="20+ portals"/><img src="https://img.shields.io/badge/6%2B%20Years-Production-F59E0B?style=flat-square" alt="6+ years"/><img src="https://img.shields.io/badge/Reply-Within%20~2%20Hours-25D366?style=flat-square" alt="Fast reply"/></div>
-
----
-
-## 👋 Hi, I'm Raman
-
-I help **founders, CTOs and scale-ups** ship bulletproof SaaS products, eliminate slow-database bottlenecks, and put **production-grade Agentic AI** into real business workflows.
-
-> **Clean architecture, zero bloat, guaranteed scalability.**
-
-I've delivered for **national governments, universities, FMCG icons and fintech platforms**: so your project gets the same senior-level rigor, with a direct line to the engineer who builds it.
-
----
-
-## 🎯 Which problem are you trying to solve?
-
-| If you need to... | I deliver | Typical timeline |
-| :--- | :--- | :--- |
-| 🚀 **Launch a product fast** | Revenue-ready **SaaS MVP**: auth, multi-tenant billing, RBAC, Stripe / PayPal / Razorpay | **3–5 weeks** |
-| ⚡ **Fix a slow or crashing app** | DB indexing, query tuning, **Redis caching**, async queues. Proven **2–3s latency cut** at 1M+ users | Audit in days |
-| 🤖 **Add AI to your product** | **Agentic AI & LLM workflows** (OpenAI, Claude, Gemini): tool calling, RAG, document parsing | Scoped per use case |
-| 🏛️ **Build a regulated / enterprise system** | ERPs & government portals with audit trails and multi-stage approval workflows | Phased milestones |
-| 📱 **Go mobile** | **React Native** iOS + Android apps (offline sync, push, biometric auth) on a Laravel API | Scoped per app |
-| ☁️ **Modernize legacy code** | PHP 7 / old CodeIgniter → **PHP 8.3 & Laravel 12**, AWS, Docker, zero-downtime CI/CD | Phased migration |
-
-<div align="center">
-
-**Not sure where you fit?** → [💬 Tell me about your project on WhatsApp](https://wa.me/919580980177?text=Hi%20Raman%2C%20I%20would%20like%20to%20discuss%20a%20project.) · [🧮 Try the instant scope estimator](https://raman-tiwari.vercel.app/#proposal-generator)
-
-</div>
-
----
-
-## 🧩 Services in Detail
-
-<details open>
-<summary><b>🚀 Full-Cycle SaaS MVP Development</b> — <i>ideal for startups & founders</i></summary>
-
-<br/>
-
-
-Turn your vision into a clean, revenue-ready MVP in **3–5 weeks** using Laravel, React / TypeScript, multi-tenant billing and auth.
-
-- Clean MVC & modular API architecture
-- Stripe / PayPal / Razorpay integrations
-- Role-based access control (RBAC)
-
-</details>
-
-<details>
-<summary><b>⚡ High-Traffic & Redis Performance</b> — <i>ideal for scaling platforms</i></summary>
-
-<br/>
-
-
-Deep database indexing, optimized MySQL joins and sub-second Redis caching layers.
-
-- Proven **2–3s latency reduction** (ORF Online)
-- Redis cache invalidation & session stores
-- Asynchronous job queues & background workers
-
-</details>
-
-<details>
-<summary><b>🤖 Agentic AI & LLM Workflow Integration</b> — <i>ideal for next-gen SaaS</i></summary>
-
-<br/>
-
-
-Autonomous agents, document-extraction pipelines and automated customer workflows with OpenAI, Claude or Gemini.
-
-- Function calling & autonomous tool execution
-- RAG & vector embeddings for smart search
-- Human-in-the-loop approval gates
-
-</details>
-
-<details>
-<summary><b>🏛️ Enterprise ERPs & Government Systems</b> — <i>ideal for enterprises & public bodies</i></summary>
-
-<br/>
-
-
-Mission-critical portals built for strict data protection and audit requirements.
-
-- Citizen identity & social security portals
-- Cryptographic audit trails & encrypted logs
-- Multi-agent queue allocation & multi-tier approvals
-
-</details>
-
-<details>
-<summary><b>📱 Cross-Platform React Native Apps</b> — <i>ideal for mobile MVPs</i></summary>
-
-<br/>
-
-
-One codebase for iOS & Android, connected to a fast Laravel REST / GraphQL backend.
-
-- Offline-first sync (SQLite / WatermelonDB), push notifications
-- JWT / OAuth2 secure auth, biometric login
-- App Store & Google Play ready
-
-</details>
-
-<details>
-<summary><b>☁️ Cloud DevOps & Legacy Migration</b> — <i>ideal for technical-debt cleanup</i></summary>
-
-<br/>
-
-
-- AWS (EC2, S3, RDS) & Nginx optimization
-- Dockerized environments & GitHub Actions CI/CD
-- Zero-downtime data migration
-
-</details>
-
----
-
-## 📈 Results Clients Get
-
-<div align="center">
-
-| 🏆 Project | 😩 The Problem | ✅ The Result |
-| :--- | :--- | :--- |
-| **ORF Online** *(media platform)* | 1M+ monthly readers, 10K+ posts, 4–5s latency from MySQL read locking | **2–3s faster** page loads, **45% lower** server CPU at peak traffic via multi-tier Redis caching |
-| **Loan Pool Engine** *(fintech)* | Manual loan allocation causing SLA delays across 100+ agents | **100% automated** routing, **60% faster** approval turnaround, audit-compliant |
-| **National Gov Portals** *(civil admin & social security)* | Need for a tamper-proof digital licensing & benefits system | Live in national operation with RBAC, audit trails and a zero-breach record |
-| **Parle Products & Amity University** | Traffic spikes during admission cycles and national campaigns | **99.99% uptime** through nationwide surges |
-| **Debate AI** *(treasury analytics)* | Policy brief prep took ~6 hours | **Under 15 minutes** with LLM-driven synthesis |
-| **Cooke & Kelvey** *(Rolex & Tudor retail)* | Luxury brand standards, inventory sync, VIP booking | Premium portal meeting Rolex corporate compliance |
-
-</div>
-
----
-
-## 🧪 Flagship SaaS Products I Built End-to-End
-
-*Multi-tenant products designed, architected and shipped by me, from database to billing to AI. **[Request a demo →](https://raman-tiwari.vercel.app/#contact)***
-
-| Product | What it does | Highlights |
-| :--- | :--- | :--- |
-| 🏥 **MediFlow** *(Clinic & Hospital SaaS)* | Run one clinic or a whole hospital group from a single subscription: appointments, doctors, billing, lab, inventory & patient app | Multi-clinic tenancy · 4 plans (Starter → Enterprise) · 14-day trial → grace → read-only automation · Razorpay / Stripe / Paddle billing · RBAC + audit logs |
-| 🎯 **Lead Intelligence** *(B2B lead discovery & outreach)* | Discover → audit → score → AI pitch → close | 13 audit checks · replaces 6 tools · 200+ automated tests |
-| 🛡️ **Insurance CRM** *(CRM + guardrailed AI)* | Lead routing, AI-drafted replies, human approval | Consent checked before every send · sensitive data redacted before AI · AI never sets rates · 11 workflow actions · 80% AI eval gate · 97 backend tests |
-
----
-
-## 🏛️ Selected Live Work
-
-<details>
-<summary><b>🛡️ Government & Public Sector</b></summary>
-
-<br/>
-
-
-| Project | Stack |
-| :--- | :--- |
-| [Firearm Licence Online](https://firearms.police.kn/) — police licensing system | `React` · `Laravel` |
-| [Consumer Affairs Portal](https://consumeraffairs.gov.kn/) — citizen complaint management | `Laravel` · `MySQL` |
-| [Social Security (Beta)](https://beta.socialsecurity.kn/) — contributions & benefits | `React` · `Laravel` |
-| [CARI Research Institute](https://cari.res.in/) — Govt of India research body | `Laravel` · `MySQL` |
-
-</details>
-
-<details>
-<summary><b>🎓 Universities & Education</b></summary>
-
-<br/>
-
-
-| Project | Stack |
-| :--- | :--- |
-| [Amity University](https://www.amity.edu/) | `CodeIgniter 4` · `MySQL` |
-| [Manav Rachna University](https://manavrachna.edu.in/) | `CodeIgniter 4.5` · `MySQL` |
-| [DIT University](https://www.dituniversity.edu.in/) | `CodeIgniter` · `MySQL` |
-| [Sakoon Education](https://sakooneducation.com/) — UK learning & evaluation portal | `React` · `Laravel` |
-
-</details>
-
-<details>
-<summary><b>🏢 Enterprise, FMCG & Retail</b></summary>
-
-<br/>
-
-
-| Project | Stack |
-| :--- | :--- |
-| [Parle Products](https://www.parleproducts.com/) — Parle-G maker | `CodeIgniter` · `MySQL` |
-| [Cooke & Kelvey](https://www.cookeandkelvey.com/) — Rolex & Tudor retail | `Laravel` · `REST APIs` |
-| [Bharat Masala](https://bharatmasala.in/) — FMCG spice brand & e-commerce | `Laravel` · `MySQL` |
-| [ITP Agri Solutions](https://www.itpagrisolutions.com/) — agri-tech platform | `Laravel` · `MySQL` |
-
-</details>
-
-<details>
-<summary><b>🤖 AI, Fintech & SaaS</b></summary>
-
-<br/>
-
-
-| Project | Stack |
-| :--- | :--- |
-| [Debate AI](https://debateai.skntreasury.com/) — treasury debate analytics | `React` · `Node.js` · `LLM API` |
-| Loan Management (SalaryNow) — queue-based loan engine, 100+ agents | `Laravel` · `Redis Queues` · `IMAP` |
-| [Accevate ERP](https://accevate.in/) — workflow, payroll & business logic | `Laravel` · `MySQL` |
-| [Sakoon Counseling](https://sakoon.co.uk/) — UK counseling & booking | `Laravel` · `MySQL` |
-| [Ripple Challenges](https://passtheripple.com/) — social challenge community | `React` · `Laravel` |
-
-</details>
-
----
-
-## 🤝 How We Work Together
-
-| Step | What happens |
-| :---: | :--- |
-| **1️⃣ Discovery** | Free 15-minute technical call: we review your goals, architecture and timeline risks |
-| **2️⃣ Scope** | Clear milestones, weekly deliverables, zero hidden surprises |
-| **3️⃣ Build** | Clean, tested, documented code with live demos and regular async updates |
-| **4️⃣ Launch & Scale** | Deployment on AWS with CI/CD, caching and monitoring in place |
-
-### 🛡️ My Guarantee
-
-- ✅ **100% code & IP ownership** on your GitHub
-- ✅ **Direct senior partnership**: no junior hand-offs
-- ✅ **Weekly milestones & live demos**
-- ✅ **Documented**: OpenAPI / Swagger docs and PSR-12 clean code
-
----
-
-## 🧾 Verified Credentials
-
-| Credential | Issuer | Proof |
-| :--- | :--- | :--- |
-| 🥇 **Laravel Developer — Top 25% Worldwide** | TestDome *(Jul 2025)* | [Verify →](https://www.testdome.com/certificates/32221773dd3a440d904278906171c143) |
-| 🐍 **Applied Data Science with Python (Level 2)** | IBM / Cognitive Class *(Jan 2022)* | [Verify →](https://www.credly.com/go/gumWo2pj) |
-| 🗄️ **Distributed SQL & CockroachDB** | Cockroach Labs *(Aug 2021)* | Certified |
-| 📱 **Android Mobile Certification** | Google *(Apr 2021)* | Signed by Google VP |
-| 🐘 **PHP with Laravel — Grade A+** | Softpro India / PolyPrep | ID `SPI/VT/2021/112` |
-| 📈 **Growth-Driven Design** | HubSpot Academy *(Jan 2022)* | Certified |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center"><img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis,react,nextjs,ts,js&theme=dark" alt="Core stack" /><br/><img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,github,postman,tailwind&theme=dark" alt="DevOps & tools" /></div>
-
-| Layer | Technologies |
-| :--- | :--- |
-| **Backend** | `PHP 8+` · `Laravel 6–12` · `CodeIgniter 3/4.5` · `Node.js` · `REST / GraphQL` · `Queue Workers` · `Microservices` |
-| **Frontend & Mobile** | `React 19` · `Next.js` · `React Native / Expo` · `TypeScript` · `Tailwind CSS` · `Bootstrap` |
-| **Data & Cache** | `MySQL` · `PostgreSQL` · `Redis` · `CockroachDB` · `MariaDB` |
-| **Cloud & DevOps** | `AWS (EC2, S3, RDS, IAM)` · `Docker` · `Nginx` · `Ubuntu` · `GitHub Actions CI/CD` |
-| **AI** | `Agentic workflows` · `OpenAI / Claude / Gemini` · `LLM tool calling` · `RAG & vector embeddings` · `LangChain` |
-
----
-
-## 💼 Experience
-
-| Period | Company | Role |
-| :--- | :--- | :--- |
-| Sep 2026 – Present | **Infiniti Tech Solution** | Fullstack Developer: web & mobile systems across SaaS, healthcare, e-commerce & fintech |
-| May 2025 – Aug 2026 | **Misha Infotech** | Senior Full Stack Laravel Developer: enterprise architecture, Agentic AI, React / React Native |
-| Nov 2024 – May 2025 | **Salary Now Fintech** | Senior Laravel Developer: queue-based underwriting engine |
-| Aug 2023 – Nov 2024 | **Sterco Digitex** | Senior PHP Developer: scaled ORF Online to 1M+ users with Redis |
-| Feb 2022 – Aug 2023 | **Accevate Technologies** | PHP Developer: enterprise ERP & mobile API backends |
-| Jul 2020 – Feb 2022 | **Techeduworld Technology** | Jr. PHP / Laravel Developer: EdTech LMS, Stripe / PayPal integrations |
-
----
-
-<div align="center">
-
-## 🚀 Let's Build Something That Scales
-
-**No commitment. Free 15-minute technical discovery call.**
-We'll look at your architecture, flag timeline risks, and outline clear next steps.
-
-<br/><a href="https://wa.me/919580980177?text=Hi%20Raman%2C%20I%20would%20like%20to%20schedule%20a%2015-minute%20intro%20call%20about%20a%20project."><img src="https://img.shields.io/badge/WhatsApp-+91%209580980177-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>&nbsp;<a href="mailto:ramantiwari644@gmail.com?subject=Project%20Inquiry"><img src="https://img.shields.io/badge/Email-ramantiwari644@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;<a href="https://www.linkedin.com/in/raman-tiwari/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://raman-tiwari.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-raman--tiwari.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=00F2FE" alt="Portfolio"/></a>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20NEW%20PROJECTS-22C55E?style=for-the-badge" alt="Open for new projects"/>
 
 <br/><br/>
 
-<sub>📍 Noida, India · Remote-friendly · Typical response within 2 hours on business days</sub>
+<a href="https://wa.me/919580980177?text=Hi%20Raman%2C%20I%20would%20like%20to%20schedule%20a%2015-minute%20intro%20call%20about%20a%20project."><img src="https://img.shields.io/badge/Book%20a%20Free%20Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Book a free call"/></a>&nbsp;<a href="mailto:ramantiwari644@gmail.com?subject=Project%20Inquiry&body=Hi%20Raman%2C%0A%0AWhat%20I%20need%3A%0ATimeline%3A%0ABudget%20range%3A%0ALink%20%28if%20any%29%3A"><img src="https://img.shields.io/badge/Email%20Your%20Brief-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email your brief"/></a>&nbsp;<a href="https://raman-tiwari.vercel.app/#proposal-generator"><img src="https://img.shields.io/badge/Get%20Instant%20Scope-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Instant scope estimator"/></a>
+
+<sub>Free 15-minute discovery call · No commitment · Usually replies within 2 hours on business days</sub>
+
+</div>
 
 <br/>
 
-<a href="https://raman-tiwari.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,25&height=100&section=footer" alt="Footer" />
-</a>
+<table align="center">
+  <tr align="center">
+    <td><h3>1M+</h3><sub>monthly users<br/>scaled with Redis</sub></td>
+    <td><h3>20+</h3><sub>enterprise &amp;<br/>government portals</sub></td>
+    <td><h3>6+ yrs</h3><sub>production<br/>experience</sub></td>
+    <td><h3>Top 25%</h3><sub>TestDome<br/>Laravel ranking</sub></td>
+  </tr>
+</table>
 
-<sub><i>Clean architecture beats clever hacks. Always.</i></sub>
+---
+
+## 👉 What do you need? Pick one and message me in one click
+
+> [!TIP]
+> Each button opens WhatsApp with a ready-made message. Just hit send, then add details if you like.
+
+| I need to... | What you get | Start |
+| :--- | :--- | :---: |
+| **Launch an MVP** | Revenue-ready SaaS with auth, multi-tenant billing & RBAC in **3–5 weeks** | [**Message me →**](https://wa.me/919580980177?text=Hi%20Raman%2C%20I%20want%20to%20build%20a%20SaaS%20MVP.%20Here%20is%20my%20idea%3A) |
+| **Speed up a slow app** | Query tuning, Redis caching & queues. Proven **2–3s faster** at 1M+ users | [**Message me →**](https://wa.me/919580980177?text=Hi%20Raman%2C%20my%20app%20is%20slow%20under%20load.%20Can%20we%20talk%3F) |
+| **Add AI to my product** | Agentic workflows, tool calling, RAG & document parsing (OpenAI, Claude, Gemini) | [**Message me →**](https://wa.me/919580980177?text=Hi%20Raman%2C%20I%20want%20to%20add%20AI%20features%20to%20my%20product.) |
+| **Build a mobile app** | React Native iOS + Android with offline sync, push & biometric login | [**Message me →**](https://wa.me/919580980177?text=Hi%20Raman%2C%20I%20need%20a%20mobile%20app%20for%20iOS%20and%20Android.) |
+| **Build an enterprise / gov system** | ERPs and portals with audit trails and multi-stage approvals | [**Message me →**](https://wa.me/919580980177?text=Hi%20Raman%2C%20I%20need%20an%20enterprise%20portal%20or%20ERP.) |
+| **Upgrade legacy code** | PHP 7 / old CodeIgniter to PHP 8.3 + Laravel 12, AWS & zero-downtime CI/CD | [**Message me →**](https://wa.me/919580980177?text=Hi%20Raman%2C%20I%20need%20to%20modernize%20a%20legacy%20PHP%20application.) |
+
+<div align="center">
+
+Not sure which fits? [**Tell me what you're trying to achieve →**](https://wa.me/919580980177?text=Hi%20Raman%2C%20I%20would%20like%20to%20discuss%20a%20project.)
+
+</div>
+
+---
+
+## 📊 Proof, not promises
+
+| Client / Project | Challenge | Outcome |
+| :--- | :--- | :--- |
+| **ORF Online** · media | 1M+ readers, 10K+ posts, 4–5s latency | **2–3s faster**, **45% less server CPU** at peak |
+| **Loan Pool Engine** · fintech | Manual allocation across 100+ agents | **100% automated**, **60% faster approvals** |
+| **National government portals** | Tamper-proof licensing & benefits | Live in national operation, RBAC + audit trails |
+| **Parle Products & Amity University** | Huge traffic spikes | **99.99% uptime** through campaigns & admissions |
+| **Debate AI** · treasury analytics | ~6 hours to prepare a policy brief | **Under 15 minutes** with LLM synthesis |
+| **Cooke & Kelvey** · Rolex & Tudor | Luxury standards, inventory sync | Premium portal meeting Rolex corporate compliance |
+
+---
+
+## 🧪 Products I built end-to-end
+
+| | Product | What it does |
+| :---: | :--- | :--- |
+| 🏥 | **MediFlow** | Clinic & hospital SaaS: multi-clinic tenancy, 4 plans, 14-day trial automation, Razorpay / Stripe / Paddle billing, RBAC & audit logs |
+| 🎯 | **Lead Intelligence** | B2B lead discovery → 13-point audit → scoring → AI pitch. Replaces 6 tools, 200+ automated tests |
+| 🛡️ | **Insurance CRM** | Lead routing with guardrailed AI: consent checks, data redaction, human approval, AI never sets rates |
+
+<div align="center">
+
+[**Request a demo →**](https://wa.me/919580980177?text=Hi%20Raman%2C%20I%20would%20like%20a%20demo%20of%20your%20SaaS%20products.)
+
+</div>
+
+---
+
+## 🏛️ Trusted by
+
+<div align="center">
+
+**Governments** · [Police Firearms Licensing](https://firearms.police.kn/) · [Consumer Affairs](https://consumeraffairs.gov.kn/) · [Social Security](https://beta.socialsecurity.kn/) · [CARI Research Institute](https://cari.res.in/)
+
+**Universities** · [Amity](https://www.amity.edu/) · [Manav Rachna](https://manavrachna.edu.in/) · [DIT University](https://www.dituniversity.edu.in/) · [Sakoon Education](https://sakooneducation.com/)
+
+**Brands** · [Parle Products](https://www.parleproducts.com/) · [Cooke & Kelvey](https://www.cookeandkelvey.com/) · [Bharat Masala](https://bharatmasala.in/) · [ITP Agri Solutions](https://www.itpagrisolutions.com/)
+
+**Platforms** · [Debate AI](https://debateai.skntreasury.com/) · [Accevate ERP](https://accevate.in/) · [Sakoon Counseling](https://sakoon.co.uk/) · [Ripple Challenges](https://passtheripple.com/)
+
+</div>
+
+---
+
+## 🤝 How working with me looks
+
+| 1. Discovery | 2. Scope | 3. Build | 4. Launch |
+| :---: | :---: | :---: | :---: |
+| Free 15-min call on goals, architecture & risks | Clear milestones and timeline, no surprises | Weekly milestones with live demos | AWS deploy, CI/CD, caching & monitoring |
+
+> [!NOTE]
+> **My guarantee:** 100% code & IP ownership on your GitHub · direct senior partnership with no junior hand-offs · documented, PSR-12 clean code.
+
+---
+
+## ❓ Quick answers
+
+<details>
+<summary><b>How much will it cost?</b></summary>
+
+<br/>
+
+It depends on scope. Use the [instant scope estimator](https://raman-tiwari.vercel.app/#proposal-generator) for a preliminary plan, and we'll agree on the final milestone breakdown on the discovery call.
+
+</details>
+
+<details>
+<summary><b>How fast can an MVP ship?</b></summary>
+
+<br/>
+
+A typical SaaS MVP takes **3–5 weeks**, depending on scope. A priority rush option exists for time-sensitive launches.
+
+</details>
+
+<details>
+<summary><b>Who will actually write the code?</b></summary>
+
+<br/>
+
+Me. You work directly with a senior engineer, with weekly demos so you always see progress.
+
+</details>
+
+<details>
+<summary><b>Do I own the code?</b></summary>
+
+<br/>
+
+Yes. You get 100% code and IP ownership, delivered on your GitHub.
+
+</details>
+
+<details>
+<summary><b>Can you work remotely with my team?</b></summary>
+
+<br/>
+
+Yes. I'm based in Noida, India, and work remotely with clients, with regular async updates.
+
+</details>
+
+---
+
+## 🧾 Verified credentials
+
+| Credential | Issuer | |
+| :--- | :--- | :---: |
+| **Laravel Developer, Top 25% worldwide** | TestDome (Jul 2025) | [Verify](https://www.testdome.com/certificates/32221773dd3a440d904278906171c143) |
+| **Applied Data Science with Python, Level 2** | IBM / Cognitive Class (Jan 2022) | [Verify](https://www.credly.com/go/gumWo2pj) |
+| **Distributed SQL & CockroachDB** | Cockroach Labs (Aug 2021) | ✔ |
+| **Android Mobile Certification** | Google (Apr 2021) | ✔ |
+| **PHP with Laravel, Grade A+** | Softpro India / PolyPrep | ✔ |
+
+---
+
+## 🛠️ Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis,react,nextjs,ts,js,aws,docker,nginx,linux,git,tailwind&theme=dark" alt="Tech stack" />
+
+</div>
+
+**Backend** PHP 8+, Laravel 6–12, CodeIgniter, Node.js, REST / GraphQL, queues · **Frontend & mobile** React 19, Next.js, React Native / Expo, TypeScript · **Data** MySQL, PostgreSQL, Redis, CockroachDB · **Cloud** AWS (EC2, S3, RDS), Docker, Nginx, GitHub Actions · **AI** OpenAI / Claude / Gemini, tool calling, RAG, LangChain
+
+---
+
+<div align="center">
+
+## Have a project in mind?
+
+**Tell me the goal. I'll reply with a clear plan and next steps.**
+
+<a href="https://wa.me/919580980177?text=Hi%20Raman%2C%20I%20would%20like%20to%20schedule%20a%2015-minute%20intro%20call%20about%20a%20project."><img src="https://img.shields.io/badge/WhatsApp-+91%209580980177-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>&nbsp;<a href="mailto:ramantiwari644@gmail.com?subject=Project%20Inquiry"><img src="https://img.shields.io/badge/Email-ramantiwari644@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;<a href="https://www.linkedin.com/in/raman-tiwari/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://raman-tiwari.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+
+<sub>📍 Noida, India · Remote-friendly · <i>Clean architecture beats clever hacks. Always.</i></sub>
 
 </div>
