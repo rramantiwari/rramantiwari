@@ -1,8 +1,10 @@
 <div align="center">
 
 <a href="https://raman-tiwari.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,25&height=230&section=header&text=Raman%20Tiwari&fontSize=50&fontAlignY=36&fontColor=ffffff&desc=Senior%20Full-Stack%20Laravel%20%26%20React%20Architect&descAlignY=58&descAlign=50&descSize=20&animation=fadeIn" alt="Raman Tiwari – Senior Full-Stack Laravel & React Architect" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,25&height=200&section=header&text=Raman%20Tiwari&fontSize=54&fontColor=ffffff" alt="Raman Tiwari" />
 </a>
+
+## Senior Full-Stack Laravel &amp; React Architect
 
 <a href="https://raman-tiwari.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=00F2FE&center=true&vCenter=true&width=760&lines=Launch+your+SaaS+MVP+in+3%E2%80%935+weeks;Fix+slow+apps+%E2%80%94+scaled+to+1M%2B+monthly+users+with+Redis;Ship+production-grade+Agentic+AI+%26+LLM+workflows;Government+%26+enterprise+portals+with+audit-grade+security;Top+25%25+TestDome+Laravel+%7C+6%2B+years+in+production" alt="Typing animation" />
@@ -14,25 +16,7 @@
 
 <br/>
 
-<a href="https://wa.me/919580980177?text=Hi%20Raman%2C%20I%20would%20like%20to%20schedule%20a%2015-minute%20intro%20call%20about%20a%20project.">
-  <img src="https://img.shields.io/badge/📞%20Book%20a%20Free%2015--Min%20Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Book a free call on WhatsApp"/>
-</a>
-<a href="mailto:ramantiwari644@gmail.com?subject=Project%20Inquiry&body=Hi%20Raman%2C%0A%0AProject%3A%0ATimeline%3A%0ABudget%3A">
-  <img src="https://img.shields.io/badge/✉️%20Send%20Project%20Brief-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Raman"/>
-</a>
-<a href="https://raman-tiwari.vercel.app/#proposal-generator">
-  <img src="https://img.shields.io/badge/⚡%20Get%20Instant%20Scope-000000?style=for-the-badge&logo=vercel&logoColor=00F2FE" alt="Instant scope estimator"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Top%2025%25-TestDome%20Laravel-10B981?style=flat-square" alt="TestDome"/>
-<img src="https://img.shields.io/badge/1M%2B-Monthly%20Users%20Scaled-00F2FE?style=flat-square&labelColor=09090b" alt="1M+ users"/>
-<img src="https://img.shields.io/badge/20%2B-Enterprise%20%26%20Govt%20Portals-8B5CF6?style=flat-square" alt="20+ portals"/>
-<img src="https://img.shields.io/badge/6%2B%20Years-Production-F59E0B?style=flat-square" alt="6+ years"/>
-<img src="https://img.shields.io/badge/Reply-Within%20~2%20Hours-25D366?style=flat-square" alt="Fast reply"/>
-
-</div>
+<a href="https://wa.me/919580980177?text=Hi%20Raman%2C%20I%20would%20like%20to%20schedule%20a%2015-minute%20intro%20call%20about%20a%20project."><img src="https://img.shields.io/badge/Book%20a%20Free%2015--Min%20Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Book a free call on WhatsApp"/></a>&nbsp;<a href="mailto:ramantiwari644@gmail.com?subject=Project%20Inquiry&body=Hi%20Raman%2C%0A%0AProject%3A%0ATimeline%3A%0ABudget%3A"><img src="https://img.shields.io/badge/Send%20Project%20Brief-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Raman"/></a>&nbsp;<a href="https://raman-tiwari.vercel.app/#proposal-generator"><img src="https://img.shields.io/badge/Get%20Instant%20Scope-000000?style=for-the-badge&logo=vercel&logoColor=00F2FE" alt="Instant scope estimator"/></a><br/><br/><img src="https://img.shields.io/badge/Top%2025%25-TestDome%20Laravel-10B981?style=flat-square" alt="TestDome"/><img src="https://img.shields.io/badge/1M%2B-Monthly%20Users%20Scaled-00F2FE?style=flat-square&labelColor=09090b" alt="1M+ users"/><img src="https://img.shields.io/badge/20%2B-Enterprise%20%26%20Govt%20Portals-8B5CF6?style=flat-square" alt="20+ portals"/><img src="https://img.shields.io/badge/6%2B%20Years-Production-F59E0B?style=flat-square" alt="6+ years"/><img src="https://img.shields.io/badge/Reply-Within%20~2%20Hours-25D366?style=flat-square" alt="Fast reply"/></div>
 
 ---
 
@@ -72,6 +56,7 @@ I've delivered for **national governments, universities, FMCG icons and fintech 
 
 <br/>
 
+
 Turn your vision into a clean, revenue-ready MVP in **3–5 weeks** using Laravel, React / TypeScript, multi-tenant billing and auth.
 
 - Clean MVC & modular API architecture
@@ -84,6 +69,7 @@ Turn your vision into a clean, revenue-ready MVP in **3–5 weeks** using Larave
 <summary><b>⚡ High-Traffic & Redis Performance</b> — <i>ideal for scaling platforms</i></summary>
 
 <br/>
+
 
 Deep database indexing, optimized MySQL joins and sub-second Redis caching layers.
 
@@ -98,6 +84,7 @@ Deep database indexing, optimized MySQL joins and sub-second Redis caching layer
 
 <br/>
 
+
 Autonomous agents, document-extraction pipelines and automated customer workflows with OpenAI, Claude or Gemini.
 
 - Function calling & autonomous tool execution
@@ -110,6 +97,7 @@ Autonomous agents, document-extraction pipelines and automated customer workflow
 <summary><b>🏛️ Enterprise ERPs & Government Systems</b> — <i>ideal for enterprises & public bodies</i></summary>
 
 <br/>
+
 
 Mission-critical portals built for strict data protection and audit requirements.
 
@@ -124,6 +112,7 @@ Mission-critical portals built for strict data protection and audit requirements
 
 <br/>
 
+
 One codebase for iOS & Android, connected to a fast Laravel REST / GraphQL backend.
 
 - Offline-first sync (SQLite / WatermelonDB), push notifications
@@ -136,6 +125,7 @@ One codebase for iOS & Android, connected to a fast Laravel REST / GraphQL backe
 <summary><b>☁️ Cloud DevOps & Legacy Migration</b> — <i>ideal for technical-debt cleanup</i></summary>
 
 <br/>
+
 
 - AWS (EC2, S3, RDS) & Nginx optimization
 - Dockerized environments & GitHub Actions CI/CD
@@ -181,6 +171,7 @@ One codebase for iOS & Android, connected to a fast Laravel REST / GraphQL backe
 
 <br/>
 
+
 | Project | Stack |
 | :--- | :--- |
 | [Firearm Licence Online](https://firearms.police.kn/) — police licensing system | `React` · `Laravel` |
@@ -194,6 +185,7 @@ One codebase for iOS & Android, connected to a fast Laravel REST / GraphQL backe
 <summary><b>🎓 Universities & Education</b></summary>
 
 <br/>
+
 
 | Project | Stack |
 | :--- | :--- |
@@ -209,6 +201,7 @@ One codebase for iOS & Android, connected to a fast Laravel REST / GraphQL backe
 
 <br/>
 
+
 | Project | Stack |
 | :--- | :--- |
 | [Parle Products](https://www.parleproducts.com/) — Parle-G maker | `CodeIgniter` · `MySQL` |
@@ -222,6 +215,7 @@ One codebase for iOS & Android, connected to a fast Laravel REST / GraphQL backe
 <summary><b>🤖 AI, Fintech & SaaS</b></summary>
 
 <br/>
+
 
 | Project | Stack |
 | :--- | :--- |
@@ -268,13 +262,7 @@ One codebase for iOS & Android, connected to a fast Laravel REST / GraphQL backe
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis,react,nextjs,ts,js&theme=dark" alt="Core stack" />
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,github,postman,tailwind&theme=dark" alt="DevOps & tools" />
-
-</div>
+<div align="center"><img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis,react,nextjs,ts,js&theme=dark" alt="Core stack" /><br/><img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,github,postman,tailwind&theme=dark" alt="DevOps & tools" /></div>
 
 | Layer | Technologies |
 | :--- | :--- |
@@ -306,20 +294,7 @@ One codebase for iOS & Android, connected to a fast Laravel REST / GraphQL backe
 **No commitment. Free 15-minute technical discovery call.**
 We'll look at your architecture, flag timeline risks, and outline clear next steps.
 
-<br/>
-
-<a href="https://wa.me/919580980177?text=Hi%20Raman%2C%20I%20would%20like%20to%20schedule%20a%2015-minute%20intro%20call%20about%20a%20project.">
-  <img src="https://img.shields.io/badge/WhatsApp-+91%209580980177-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-<a href="mailto:ramantiwari644@gmail.com?subject=Project%20Inquiry">
-  <img src="https://img.shields.io/badge/Email-ramantiwari644@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/raman-tiwari/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://raman-tiwari.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-raman--tiwari.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=00F2FE" alt="Portfolio"/>
-</a>
+<br/><a href="https://wa.me/919580980177?text=Hi%20Raman%2C%20I%20would%20like%20to%20schedule%20a%2015-minute%20intro%20call%20about%20a%20project."><img src="https://img.shields.io/badge/WhatsApp-+91%209580980177-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>&nbsp;<a href="mailto:ramantiwari644@gmail.com?subject=Project%20Inquiry"><img src="https://img.shields.io/badge/Email-ramantiwari644@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;<a href="https://www.linkedin.com/in/raman-tiwari/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://raman-tiwari.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-raman--tiwari.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=00F2FE" alt="Portfolio"/></a>
 
 <br/><br/>
 
@@ -328,7 +303,7 @@ We'll look at your architecture, flag timeline risks, and outline clear next ste
 <br/>
 
 <a href="https://raman-tiwari.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,25&height=100&section=footer&animation=fadeIn" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,25&height=100&section=footer" alt="Footer" />
 </a>
 
 <sub><i>Clean architecture beats clever hacks. Always.</i></sub>
